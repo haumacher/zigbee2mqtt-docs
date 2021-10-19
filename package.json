@@ -5,9 +5,10 @@
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_OPTIONS=--max_old_space_size=8000 vuepress dev docs",
+    "dev:no-devices": "cross-env EXCLUDE_DEVICES=yes npm run dev",
     "build": "cross-env NODE_OPTIONS=--max_old_space_size=8000 vuepress build docs",
     "docgen": "ts-node docgen",
-    "docgen:dev": "ts-node-dev docgen"
+    "test": "ts-node docgen/tests"
   },
   "author": "",
   "license": "ISC",
