@@ -5,8 +5,9 @@ import * as path from "path";
 import { promises as fsp } from "fs";
 import { generatePage, getImage, normalizeModel } from "./utils";
 import { generateExpose } from "./device_page_exposes";
+import { devicesBaseDir, imageBaseDir, imageBaseUrl } from "./constants";
 
-export default async function generateDevice({ device, imageBaseUrl, imageBaseDir, devicesBaseDir }) {
+export default async function generateDevice(device) {
   const deviceFile = path.resolve(devicesBaseDir, `${ normalizeModel(device.model) }.md`);
   const image = await getImage(device, imageBaseDir, imageBaseUrl);
   const exposesDescription = Array.from(new Set(device.exposes.map((e) => e.hasOwnProperty('name') ? e.name : `${ e.type } (${ e.features.map((f) => f.name).join(', ') })`))).join(', ');

@@ -7,6 +7,7 @@ import throat from "throat";
 import * as path from "path";
 import { promises as fsp } from "fs";
 import { generatePage, getImage, normalizeModel } from "./utils";
+import { imageBaseDir } from "./constants";
 
 const exec = (...args) => new Promise((resolve, reject) => {
   childProcess.exec.apply(this, [
@@ -20,7 +21,7 @@ const cacheDir = path.resolve(__dirname, '..', 'node_modules', '.cache');
 const addedAtCacheFile = path.resolve(cacheDir, 'addedAtCache.json');
 const vendors = new Set();
 
-export default async function generate_supportedDevices({ imageBaseDir, imageBaseUrl }) {
+export default async function generate_supportedDevices() {
   console.log(`Generating supported-devices`);
   let addedAtCache = {};
 
