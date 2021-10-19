@@ -121,6 +121,8 @@ $bgColor: #F2F2F2;
       right: 0;
       top: 0;
       text-align: right;
+      z-index: 10;
+
       .vendor {
         cursor: pointer;
         display: inline-block;
