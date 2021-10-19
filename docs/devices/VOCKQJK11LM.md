@@ -27,7 +27,7 @@ description: "Integrate your Xiaomi VOCKQJK11LM via Zigbee2MQTT with whatever sm
 Press and hold button on top of device until connection symbol appears
 
 ### Device type specific configuration
-*[How to use device type specific configuration](../information/configuration.md)*
+*[How to use device type specific configuration](../guide/configuration/#device-specific-configuration)*
 
 * `temperature_precision`: Controls the precision of `temperature` values,
 e.g. `0`, `1` or `2`; default `2`.

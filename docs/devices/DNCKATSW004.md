@@ -22,7 +22,7 @@ description: "Integrate your Custom devices (DiY) DNCKATSW004 via Zigbee2MQTT wi
 ## Notes
 
 ### Device type specific configuration
-*[How to use device type specific configuration](../information/configuration.md)*
+*[How to use device type specific configuration](../guide/configuration/#device-specific-configuration)*
 
 * `legacy`: Set to `false` to disable the legacy integration (highly recommended!) (default: true)
 

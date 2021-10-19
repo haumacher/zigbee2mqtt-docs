@@ -16,7 +16,7 @@ git clone https://github.com/jmichault/flash_cc2531.git
  * pin 3 (DC)	  -->	pin 36 (GPIO27, BCM16)
  * pin 4 (DD)	  -->	pin 38 (GPIO28, BCM20)
  
- ![](../images/CC2531_wiring_raspi-header.jpg)
+ ![](../../images/CC2531_wiring_raspi-header.jpg)
 
  Optionally, connecting Target Voltage Sense to a 3.3v source (Red wire) eliminates the need to plug the device into a usb port, so optionally connect the following too:
  * pin 2 (Target Voltage Sense) --> pin 1 or pin 17 (3.3v) on Raspi
@@ -195,9 +195,9 @@ or
 
 I connected only 3 specified contacts and GND. During the firmware, the stick and Arduino must be connected to the USB.
 
-![](../images/kirovilya/IMG_20180111_193941.jpg)
-![](../images/kirovilya/IMG_20180111_193923.jpg)
-![](../images/kirovilya/IMG_20180110_234401.jpg)
+![](../../images/kirovilya/IMG_20180111_193941.jpg)
+![](../../images/kirovilya/IMG_20180111_193923.jpg)
+![](../../images/kirovilya/IMG_20180110_234401.jpg)
 
 6. After that, try to get information about the chip - if it works, then the connection is correct (example for COM9 port - Arduino port):
 

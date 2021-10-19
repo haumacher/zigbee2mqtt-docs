@@ -77,7 +77,7 @@ To find optimal "smoothness" play with debounce time or if you need all unique r
 {% endraw %}
 
 ### Device type specific configuration
-*[How to use device type specific configuration](../information/configuration.md)*
+*[How to use device type specific configuration](../guide/configuration/#device-specific-configuration)*
 
 * `legacy`: Set to `false` to disable the legacy integration (highly recommended!) (default: true)
 

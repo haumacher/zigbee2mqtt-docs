@@ -33,7 +33,7 @@ description: "Integrate your Gledopto GL-C-008-2ID via Zigbee2MQTT with whatever
 This device exposes the two specific endpoints `rgb` and `cct`. The command topics are `zigbee2mqtt/<FRIENDLY_NAME>/rgb/set`, and `zigbee2mqtt/<FRIENDLY_NAME>/cct/set`. Both [specific endpoints can be added to a group](../information/groups.md#adding-a-specific-endpoint). These endpoints are `<FRIENDLY_NAME>/rgb`, and `<FRIENDLY_NAME>/cct`.
 
 ### Device type specific configuration
-*[How to use device type specific configuration](../information/configuration.md)*
+*[How to use device type specific configuration](../guide/configuration/#device-specific-configuration)*
 
 * `color_sync`: Synchronizes the color values in the state, e.g. if the state contains `color_temp` and `color.xy` and
 the `color_temp` is set, `color.xy` will be updated to match the `color_temp`. (default: `true`)

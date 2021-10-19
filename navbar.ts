@@ -14,12 +14,14 @@ export const navbar: NavbarConfig = [
     text: 'Guide',
     children: [
       '/guide/requirements/',
+      '/guide/adapters/',
       '/guide/installation/',
       '/guide/configuration/',
       {
         text: 'Usage',
         link: '/guide/usage/pairing_devices.md',
       },
+      '/guide/development/',
     ]
   },
   {

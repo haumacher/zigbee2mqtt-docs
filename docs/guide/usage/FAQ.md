@@ -1,6 +1,6 @@
 ---
 ---
-# Frequently asked questions
+# FAQ
 
 - [Why does my device not or fail to pair?](#why-does-my-device-not-or-fail-to-pair)
 - [How do I migrate from a CC2531 to a more powerful coordinator (e.g. ZZH)?](#how-do-i-migrate-from-a-cc2531-to-a-more-powerful-coordinator-eg-zzh)

@@ -5,6 +5,11 @@ export const sidebar: SidebarConfig = {
   '/guide/': [
     '/guide/requirements/',
     {
+      text: 'Supported Adapters',
+      link: '/guide/adapters/',
+      children: getFiles('guide/adapters')
+    },
+    {
       text: 'Installation',
       link: '/guide/installation/',
       children: getFiles('guide/installation')
@@ -35,8 +40,14 @@ export const sidebar: SidebarConfig = {
         '/guide/usage/groups.md',
         '/guide/usage/ota_updates.md',
         '/guide/usage/zigbee_network.md',
+        '/guide/usage/FAQ.md',
         '/guide/usage/debug.md',
       ]
-    }
+    },
+    {
+      text: 'Development',
+      link: '/guide/development/',
+      children: getFiles('guide/development')
+    },
   ],
 };

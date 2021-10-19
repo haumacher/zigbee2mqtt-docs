@@ -23,7 +23,7 @@ description: "Integrate your iCasa ICZB-KPD12 via Zigbee2MQTT with whatever smar
 ## Notes
 
 ### Device type specific configuration
-*[How to use device type specific configuration](../information/configuration.md)*
+*[How to use device type specific configuration](../guide/configuration/#device-specific-configuration)*
 
 * `simulated_brightness`: Set to `true` to simulate a `brightness` value (default: `false`).
 If this device provides a `brightness_move_up` or `brightness_move_down` action it is possible to specify the update

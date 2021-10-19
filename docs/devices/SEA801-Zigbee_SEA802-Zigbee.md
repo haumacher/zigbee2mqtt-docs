@@ -29,7 +29,7 @@ description: "Integrate your Saswell SEA801-Zigbee/SEA802-Zigbee via Zigbee2MQTT
 * SEA802-Z01 (white LED display on the side, rotary plate): Turn the rotary plate to decrease the temperature until the LED dots show "OF", then long press until the display changes to "--"
 
 ### Device type specific configuration
-*[How to use device type specific configuration](../information/configuration.md)*
+*[How to use device type specific configuration](../guide/configuration/#device-specific-configuration)*
 
 * `legacy`: Set to `false` to disable the legacy integration (highly recommended!) (default: true)
 
