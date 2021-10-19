@@ -1,19 +1,23 @@
 ---
 title: "Aurora Lighting AU-A1GUZBCX5 control via MQTT"
-description: "Integrate your Aurora Lighting AU-A1GUZBCX5 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Aurora Lighting AU-A1GUZBCX5 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/AU-A1GUZBCX5.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Aurora Lighting AU-A1GUZBCX5
 
+|     |     |
+|-----|-----|
 | Model | AU-A1GUZBCX5  |
 | Vendor  | Aurora Lighting  |
 | Description | AOne 5.4W smart tuneable GU10 lamp |
 | Exposes | light (state, brightness, color_temp, color_temp_startup), effect, linkquality |
-| Picture | ![Aurora Lighting AU-A1GUZBCX5](../../public/images/devices/AU-A1GUZBCX5.jpg) |
+| Picture | ![Aurora Lighting AU-A1GUZBCX5](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/AU-A1GUZBCX5.jpg) |
+
 
 ## Notes
 

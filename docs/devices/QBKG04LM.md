@@ -1,19 +1,23 @@
 ---
 title: "Xiaomi QBKG04LM control via MQTT"
-description: "Integrate your Xiaomi QBKG04LM via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Xiaomi QBKG04LM via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/QBKG04LM.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Xiaomi QBKG04LM
 
+|     |     |
+|-----|-----|
 | Model | QBKG04LM  |
 | Vendor  | Xiaomi  |
 | Description | Aqara single key wired wall switch without neutral wire. Doesn't work as a router and doesn't support power meter |
 | Exposes | switch (state), action, operation_mode, linkquality |
-| Picture | ![Xiaomi QBKG04LM](../../public/images/devices/QBKG04LM.jpg) |
+| Picture | ![Xiaomi QBKG04LM](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/QBKG04LM.jpg) |
+
 
 ## Notes
 

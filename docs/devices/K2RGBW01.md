@@ -1,19 +1,23 @@
 ---
 title: "JIAWEN K2RGBW01 control via MQTT"
-description: "Integrate your JIAWEN K2RGBW01 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your JIAWEN K2RGBW01 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/K2RGBW01.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # JIAWEN K2RGBW01
 
+|     |     |
+|-----|-----|
 | Model | K2RGBW01  |
 | Vendor  | JIAWEN  |
 | Description | Wireless Bulb E27 9W RGBW |
 | Exposes | light (state, brightness, color_temp, color_temp_startup, color_xy), effect, linkquality |
-| Picture | ![JIAWEN K2RGBW01](../../public/images/devices/K2RGBW01.jpg) |
+| Picture | ![JIAWEN K2RGBW01](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/K2RGBW01.jpg) |
+
 
 ## Notes
 

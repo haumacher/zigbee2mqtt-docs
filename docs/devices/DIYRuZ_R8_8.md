@@ -1,19 +1,23 @@
 ---
 title: "DIYRuZ DIYRuZ_R8_8 control via MQTT"
-description: "Integrate your DIYRuZ DIYRuZ_R8_8 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your DIYRuZ DIYRuZ_R8_8 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/DIYRuZ_R8_8.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # DIYRuZ DIYRuZ_R8_8
 
+|     |     |
+|-----|-----|
 | Model | DIYRuZ_R8_8  |
 | Vendor  | DIYRuZ  |
 | Description | [DiY 8 Relays + 8 switches](https://modkam.ru/?p=1638) |
 | Exposes | switch (state), linkquality |
-| Picture | ![DIYRuZ DIYRuZ_R8_8](../../public/images/devices/DIYRuZ_R8_8.jpg) |
+| Picture | ![DIYRuZ DIYRuZ_R8_8](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/DIYRuZ_R8_8.jpg) |
+
 
 ## Notes
 

@@ -1,20 +1,24 @@
 ---
 title: "Iolloi ID-UK21FW09 control via MQTT"
-description: "Integrate your Iolloi ID-UK21FW09 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Iolloi ID-UK21FW09 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/ID-UK21FW09.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Iolloi ID-UK21FW09
 
+|     |     |
+|-----|-----|
 | Model | ID-UK21FW09  |
 | Vendor  | Iolloi  |
 | Description | Zigbee LED smart dimmer switch |
 | Exposes | light (state, brightness), linkquality |
-| Picture | ![Iolloi ID-UK21FW09](../../public/images/devices/ID-UK21FW09.jpg) |
+| Picture | ![Iolloi ID-UK21FW09](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/ID-UK21FW09.jpg) |
 | White-label | Iolloi ID-EU20FW09 |
+
 
 ## Notes
 

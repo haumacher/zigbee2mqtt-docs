@@ -1,19 +1,23 @@
 ---
 title: "HEIMAN HS2SK_nxp control via MQTT"
-description: "Integrate your HEIMAN HS2SK_nxp via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your HEIMAN HS2SK_nxp via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/HS2SK_nxp.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # HEIMAN HS2SK_nxp
 
+|     |     |
+|-----|-----|
 | Model | HS2SK_nxp  |
 | Vendor  | HEIMAN  |
 | Description | Smart metering plug |
 | Exposes | switch (state), power, current, voltage, linkquality |
-| Picture | ![HEIMAN HS2SK_nxp](../../public/images/devices/HS2SK_nxp.jpg) |
+| Picture | ![HEIMAN HS2SK_nxp](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/HS2SK_nxp.jpg) |
+
 
 ## Notes
 
@@ -21,6 +25,7 @@ description: "Integrate your HEIMAN HS2SK_nxp via Zigbee2MQTT with whatever smar
 *[How to use device type specific configuration](../information/configuration.md)*
 
 * `measurement_poll_interval`: This device does not support reporting electric measurements so it is polled instead. The default poll interval is 60 seconds.
+
 
 
 ## Exposes

@@ -1,19 +1,23 @@
 ---
 title: "Xiaomi WXCJKG12LM control via MQTT"
-description: "Integrate your Xiaomi WXCJKG12LM via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Xiaomi WXCJKG12LM via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/WXCJKG12LM.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Xiaomi WXCJKG12LM
 
+|     |     |
+|-----|-----|
 | Model | WXCJKG12LM  |
 | Vendor  | Xiaomi  |
 | Description | Aqara Opple switch 2 bands |
 | Exposes | battery, action, operation_mode, linkquality |
-| Picture | ![Xiaomi WXCJKG12LM](../../public/images/devices/WXCJKG12LM.jpg) |
+| Picture | ![Xiaomi WXCJKG12LM](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/WXCJKG12LM.jpg) |
+
 
 ## Notes
 

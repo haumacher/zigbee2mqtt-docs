@@ -1,19 +1,23 @@
 ---
 title: "Gledopto GL-B-001Z control via MQTT"
-description: "Integrate your Gledopto GL-B-001Z via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Gledopto GL-B-001Z via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/GL-B-001Z.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Gledopto GL-B-001Z
 
+|     |     |
+|-----|-----|
 | Model | GL-B-001Z  |
 | Vendor  | Gledopto  |
 | Description | Zigbee 4W E12/E14 Bulb RGB+CCT |
 | Exposes | light (state, brightness, color_temp, color_temp_startup, color_xy, color_hs), effect, linkquality |
-| Picture | ![Gledopto GL-B-001Z](../../public/images/devices/GL-B-001Z.jpg) |
+| Picture | ![Gledopto GL-B-001Z](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/GL-B-001Z.jpg) |
+
 
 ## Notes
 

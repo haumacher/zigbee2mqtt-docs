@@ -1,19 +1,23 @@
 ---
 title: "Shenzhen Homa HLC833-Z-SC control via MQTT"
-description: "Integrate your Shenzhen Homa HLC833-Z-SC via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Shenzhen Homa HLC833-Z-SC via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/HLC833-Z-SC.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Shenzhen Homa HLC833-Z-SC
 
+|     |     |
+|-----|-----|
 | Model | HLC833-Z-SC  |
 | Vendor  | Shenzhen Homa  |
 | Description | Wireless dimmable controller |
 | Exposes | light (state, brightness), effect, linkquality |
-| Picture | ![Shenzhen Homa HLC833-Z-SC](../../public/images/devices/HLC833-Z-SC.jpg) |
+| Picture | ![Shenzhen Homa HLC833-Z-SC](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/HLC833-Z-SC.jpg) |
+
 
 ## Notes
 

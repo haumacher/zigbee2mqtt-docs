@@ -1,19 +1,23 @@
 ---
 title: "Xiaomi ZNCZ12LM control via MQTT"
-description: "Integrate your Xiaomi ZNCZ12LM via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Xiaomi ZNCZ12LM via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/ZNCZ12LM.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Xiaomi ZNCZ12LM
 
+|     |     |
+|-----|-----|
 | Model | ZNCZ12LM  |
 | Vendor  | Xiaomi  |
 | Description | Mi power plug ZigBee US |
 | Exposes | switch (state), power, energy, temperature, voltage, linkquality |
-| Picture | ![Xiaomi ZNCZ12LM](../../public/images/devices/ZNCZ12LM.jpg) |
+| Picture | ![Xiaomi ZNCZ12LM](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/ZNCZ12LM.jpg) |
+
 
 ## Notes
 

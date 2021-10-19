@@ -1,19 +1,23 @@
 ---
 title: "Gledopto GL-S-008Z control via MQTT"
-description: "Integrate your Gledopto GL-S-008Z via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Gledopto GL-S-008Z via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/GL-S-008Z.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Gledopto GL-S-008Z
 
+|     |     |
+|-----|-----|
 | Model | GL-S-008Z  |
 | Vendor  | Gledopto  |
 | Description | Zigbee 5W PAR16 Bulb RGB+CCT |
 | Exposes | light (state, brightness, color_temp, color_temp_startup, color_xy, color_hs), effect, linkquality |
-| Picture | ![Gledopto GL-S-008Z](../../public/images/devices/GL-S-008Z.jpg) |
+| Picture | ![Gledopto GL-S-008Z](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/GL-S-008Z.jpg) |
+
 
 ## Notes
 

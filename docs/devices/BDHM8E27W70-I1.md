@@ -1,19 +1,23 @@
 ---
 title: "GS BDHM8E27W70-I1 control via MQTT"
-description: "Integrate your GS BDHM8E27W70-I1 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your GS BDHM8E27W70-I1 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/BDHM8E27W70-I1.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # GS BDHM8E27W70-I1
 
+|     |     |
+|-----|-----|
 | Model | BDHM8E27W70-I1  |
 | Vendor  | GS  |
 | Description | Active light, warm to cool white (E27 & B22) |
 | Exposes | light (state, brightness, color_temp, color_temp_startup), effect, linkquality |
-| Picture | ![GS BDHM8E27W70-I1](../../public/images/devices/BDHM8E27W70-I1.jpg) |
+| Picture | ![GS BDHM8E27W70-I1](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/BDHM8E27W70-I1.jpg) |
+
 
 ## Notes
 

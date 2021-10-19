@@ -1,19 +1,23 @@
 ---
 title: "Gledopto GL-MC-001P control via MQTT"
-description: "Integrate your Gledopto GL-MC-001P via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Gledopto GL-MC-001P via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/GL-MC-001P.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Gledopto GL-MC-001P
 
+|     |     |
+|-----|-----|
 | Model | GL-MC-001P  |
 | Vendor  | Gledopto  |
 | Description | Zigbee USB Mini LED Controller RGB+CCT (pro) |
 | Exposes | light (state, brightness, color_temp, color_temp_startup, color_xy, color_hs), effect, linkquality |
-| Picture | ![Gledopto GL-MC-001P](../../public/images/devices/GL-MC-001P.jpg) |
+| Picture | ![Gledopto GL-MC-001P](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/GL-MC-001P.jpg) |
+
 
 ## Notes
 

@@ -1,19 +1,23 @@
 ---
 title: "SmartThings STS-IRM-251 control via MQTT"
-description: "Integrate your SmartThings STS-IRM-251 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your SmartThings STS-IRM-251 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/STS-IRM-251.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # SmartThings STS-IRM-251
 
+|     |     |
+|-----|-----|
 | Model | STS-IRM-251  |
 | Vendor  | SmartThings  |
 | Description | Motion sensor (2017 model) |
 | Exposes | temperature, occupancy, battery_low, tamper, battery, linkquality |
-| Picture | ![SmartThings STS-IRM-251](../../public/images/devices/STS-IRM-251.jpg) |
+| Picture | ![SmartThings STS-IRM-251](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/STS-IRM-251.jpg) |
+
 
 ## Notes
 

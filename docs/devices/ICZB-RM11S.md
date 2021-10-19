@@ -1,19 +1,23 @@
 ---
 title: "iCasa ICZB-RM11S control via MQTT"
-description: "Integrate your iCasa ICZB-RM11S via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your iCasa ICZB-RM11S via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/ICZB-RM11S.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # iCasa ICZB-RM11S
 
+|     |     |
+|-----|-----|
 | Model | ICZB-RM11S  |
 | Vendor  | iCasa  |
 | Description | Zigbee 3.0 remote control |
 | Exposes | battery, action, linkquality |
-| Picture | ![iCasa ICZB-RM11S](../../public/images/devices/ICZB-RM11S.jpg) |
+| Picture | ![iCasa ICZB-RM11S](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/ICZB-RM11S.jpg) |
+
 
 ## Notes
 

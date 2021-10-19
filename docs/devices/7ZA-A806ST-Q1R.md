@@ -1,19 +1,23 @@
 ---
 title: "SmartThings 7ZA-A806ST-Q1R control via MQTT"
-description: "Integrate your SmartThings 7ZA-A806ST-Q1R via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your SmartThings 7ZA-A806ST-Q1R via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/7ZA-A806ST-Q1R.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # SmartThings 7ZA-A806ST-Q1R
 
+|     |     |
+|-----|-----|
 | Model | 7ZA-A806ST-Q1R  |
 | Vendor  | SmartThings  |
 | Description | Smart bulb |
 | Exposes | light (state, brightness), effect, linkquality |
-| Picture | ![SmartThings 7ZA-A806ST-Q1R](../../public/images/devices/7ZA-A806ST-Q1R.jpg) |
+| Picture | ![SmartThings 7ZA-A806ST-Q1R](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/7ZA-A806ST-Q1R.jpg) |
+
 
 ## Notes
 

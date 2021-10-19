@@ -1,19 +1,23 @@
 ---
 title: "SmartThings GP-LBU019BBAWU control via MQTT"
-description: "Integrate your SmartThings GP-LBU019BBAWU via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your SmartThings GP-LBU019BBAWU via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/GP-LBU019BBAWU.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # SmartThings GP-LBU019BBAWU
 
+|     |     |
+|-----|-----|
 | Model | GP-LBU019BBAWU  |
 | Vendor  | SmartThings  |
 | Description | Smart bulb |
 | Exposes | light (state, brightness), effect, linkquality |
-| Picture | ![SmartThings GP-LBU019BBAWU](../../public/images/devices/GP-LBU019BBAWU.jpg) |
+| Picture | ![SmartThings GP-LBU019BBAWU](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/GP-LBU019BBAWU.jpg) |
+
 
 ## Notes
 

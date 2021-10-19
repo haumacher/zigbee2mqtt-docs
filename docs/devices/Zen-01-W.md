@@ -1,19 +1,23 @@
 ---
 title: "Zen Zen-01-W control via MQTT"
-description: "Integrate your Zen Zen-01-W via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Zen Zen-01-W via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/Zen-01-W.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Zen Zen-01-W
 
+|     |     |
+|-----|-----|
 | Model | Zen-01-W  |
 | Vendor  | Zen  |
 | Description | Thermostat |
 | Exposes | climate (occupied_heating_setpoint, local_temperature, system_mode, running_state, local_temperature_calibration, pi_heating_demand), linkquality |
-| Picture | ![Zen Zen-01-W](../../public/images/devices/Zen-01-W.jpg) |
+| Picture | ![Zen Zen-01-W](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/Zen-01-W.jpg) |
+
 
 ## Notes
 

@@ -1,19 +1,23 @@
 ---
 title: "Xiaomi QBCZ15LM control via MQTT"
-description: "Integrate your Xiaomi QBCZ15LM via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Xiaomi QBCZ15LM via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/QBCZ15LM.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Xiaomi QBCZ15LM
 
+|     |     |
+|-----|-----|
 | Model | QBCZ15LM  |
 | Vendor  | Xiaomi  |
 | Description | Aqara smart wall outlet H1 usb |
 | Exposes | switch (state), power, energy, temperature, voltage, current, power_outage_memory, led_disabled_night, button_lock, button_switch_mode, overload_protection, linkquality |
-| Picture | ![Xiaomi QBCZ15LM](../../public/images/devices/QBCZ15LM.jpg) |
+| Picture | ![Xiaomi QBCZ15LM](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/QBCZ15LM.jpg) |
+
 
 ## Notes
 

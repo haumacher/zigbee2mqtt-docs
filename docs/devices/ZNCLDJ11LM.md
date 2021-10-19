@@ -1,19 +1,23 @@
 ---
 title: "Xiaomi ZNCLDJ11LM control via MQTT"
-description: "Integrate your Xiaomi ZNCLDJ11LM via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Xiaomi ZNCLDJ11LM via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/ZNCLDJ11LM.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Xiaomi ZNCLDJ11LM
 
+|     |     |
+|-----|-----|
 | Model | ZNCLDJ11LM  |
 | Vendor  | Xiaomi  |
 | Description | Aqara curtain motor |
 | Exposes | cover (state, position), linkquality |
-| Picture | ![Xiaomi ZNCLDJ11LM](../../public/images/devices/ZNCLDJ11LM.jpg) |
+| Picture | ![Xiaomi ZNCLDJ11LM](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/ZNCLDJ11LM.jpg) |
+
 
 ## Notes
 

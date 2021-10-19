@@ -1,19 +1,23 @@
 ---
 title: "TERNCY TERNCY-PP01 control via MQTT"
-description: "Integrate your TERNCY TERNCY-PP01 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your TERNCY TERNCY-PP01 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/TERNCY-PP01.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # TERNCY TERNCY-PP01
 
+|     |     |
+|-----|-----|
 | Model | TERNCY-PP01  |
 | Vendor  | TERNCY  |
 | Description | Awareness switch |
 | Exposes | temperature, occupancy, illuminance_lux, illuminance, action, linkquality |
-| Picture | ![TERNCY TERNCY-PP01](../../public/images/devices/TERNCY-PP01.jpg) |
+| Picture | ![TERNCY TERNCY-PP01](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/TERNCY-PP01.jpg) |
+
 
 ## Notes
 

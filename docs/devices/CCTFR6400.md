@@ -1,19 +1,23 @@
 ---
 title: "Schneider Electric CCTFR6400 control via MQTT"
-description: "Integrate your Schneider Electric CCTFR6400 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Schneider Electric CCTFR6400 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/CCTFR6400.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Schneider Electric CCTFR6400
 
+|     |     |
+|-----|-----|
 | Model | CCTFR6400  |
 | Vendor  | Schneider Electric  |
 | Description | Temperature/Humidity measurement with thermostat interface |
 | Exposes | keypad_lockout, humidity, battery, voltage, action, climate (occupied_heating_setpoint, local_temperature, pi_heating_demand), linkquality |
-| Picture | ![Schneider Electric CCTFR6400](../../public/images/devices/CCTFR6400.jpg) |
+| Picture | ![Schneider Electric CCTFR6400](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/CCTFR6400.jpg) |
+
 
 ## Notes
 

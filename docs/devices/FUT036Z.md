@@ -1,19 +1,23 @@
 ---
 title: "Miboxer FUT036Z control via MQTT"
-description: "Integrate your Miboxer FUT036Z via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Miboxer FUT036Z via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/FUT036Z.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Miboxer FUT036Z
 
+|     |     |
+|-----|-----|
 | Model | FUT036Z  |
 | Vendor  | Miboxer  |
 | Description | Single color LED controller |
 | Exposes | light (state, brightness), effect, linkquality |
-| Picture | ![Miboxer FUT036Z](../../public/images/devices/FUT036Z.jpg) |
+| Picture | ![Miboxer FUT036Z](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/FUT036Z.jpg) |
+
 
 ## Notes
 

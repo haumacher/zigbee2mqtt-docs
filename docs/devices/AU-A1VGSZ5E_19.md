@@ -1,19 +1,23 @@
 ---
 title: "Aurora Lighting AU-A1VGSZ5E/19 control via MQTT"
-description: "Integrate your Aurora Lighting AU-A1VGSZ5E/19 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Aurora Lighting AU-A1VGSZ5E/19 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/AU-A1VGSZ5E_19.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Aurora Lighting AU-A1VGSZ5E/19
 
+|     |     |
+|-----|-----|
 | Model | AU-A1VGSZ5E/19  |
 | Vendor  | Aurora Lighting  |
 | Description | AOne 4W smart dimmable Vintage GLS lamp 1900K |
 | Exposes | light (state, brightness), linkquality |
-| Picture | ![Aurora Lighting AU-A1VGSZ5E/19](../../public/images/devices/AU-A1VGSZ5E-19.jpg) |
+| Picture | ![Aurora Lighting AU-A1VGSZ5E/19](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/AU-A1VGSZ5E-19.jpg) |
+
 
 ## Notes
 

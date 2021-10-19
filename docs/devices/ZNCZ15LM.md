@@ -1,19 +1,23 @@
 ---
 title: "Xiaomi ZNCZ15LM control via MQTT"
-description: "Integrate your Xiaomi ZNCZ15LM via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Xiaomi ZNCZ15LM via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/ZNCZ15LM.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Xiaomi ZNCZ15LM
 
+|     |     |
+|-----|-----|
 | Model | ZNCZ15LM  |
 | Vendor  | Xiaomi  |
 | Description | Aqara T1 power plug ZigBee |
 | Exposes | switch (state), power, energy, temperature, voltage, current, consumer_connected, power_outage_memory, led_disabled_night, button_lock, overload_protection, linkquality |
-| Picture | ![Xiaomi ZNCZ15LM](../../public/images/devices/ZNCZ15LM.jpg) |
+| Picture | ![Xiaomi ZNCZ15LM](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/ZNCZ15LM.jpg) |
+
 
 ## Notes
 
@@ -67,7 +71,7 @@ It's not possible to read (`/get`) or write (`/set`) this value.
 The unit of this value is `A`.
 
 ### Consumer_connected (binary)
-Indicates whether device is physically attached. Device does not have to pull power or even be connected electrically (switch can be ON even if switch is OFF)..
+Indicates whether a plug is physically attached. Device does not have to pull power or even be connected electrically (state of this binary switch can be ON even if main power switch is OFF).
 Value can be found in the published state on the `consumer_connected` property.
 It's not possible to read (`/get`) or write (`/set`) this value.
 If value equals `true` consumer_connected is ON, if `false` OFF.

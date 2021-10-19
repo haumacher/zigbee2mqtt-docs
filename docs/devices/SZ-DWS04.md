@@ -1,19 +1,23 @@
 ---
 title: "Sercomm SZ-DWS04 control via MQTT"
-description: "Integrate your Sercomm SZ-DWS04 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Sercomm SZ-DWS04 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/SZ-DWS04.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Sercomm SZ-DWS04
 
+|     |     |
+|-----|-----|
 | Model | SZ-DWS04  |
 | Vendor  | Sercomm  |
 | Description | Magnetic door & window contact sensor |
 | Exposes | contact, battery_low, tamper, temperature, battery, linkquality |
-| Picture | ![Sercomm SZ-DWS04](../../public/images/devices/SZ-DWS04.jpg) |
+| Picture | ![Sercomm SZ-DWS04](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/SZ-DWS04.jpg) |
+
 
 ## Notes
 

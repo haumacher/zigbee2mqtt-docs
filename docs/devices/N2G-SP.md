@@ -1,19 +1,23 @@
 ---
 title: "NET2GRID N2G-SP control via MQTT"
-description: "Integrate your NET2GRID N2G-SP via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your NET2GRID N2G-SP via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/N2G-SP.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # NET2GRID N2G-SP
 
+|     |     |
+|-----|-----|
 | Model | N2G-SP  |
 | Vendor  | NET2GRID  |
 | Description | White Net2Grid power outlet switch with power meter |
 | Exposes | switch (state), power, energy, linkquality |
-| Picture | ![NET2GRID N2G-SP](../../public/images/devices/N2G-SP.jpg) |
+| Picture | ![NET2GRID N2G-SP](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/N2G-SP.jpg) |
+
 
 ## Notes
 

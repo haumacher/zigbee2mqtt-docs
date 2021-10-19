@@ -1,19 +1,23 @@
 ---
 title: "Paul Neuhaus NLG-CCT light control via MQTT"
-description: "Integrate your Paul Neuhaus NLG-CCT light via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Paul Neuhaus NLG-CCT light via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/NLG-CCT_light.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Paul Neuhaus NLG-CCT light
 
+|     |     |
+|-----|-----|
 | Model | NLG-CCT light  |
 | Vendor  | Paul Neuhaus  |
 | Description | Various color temperature lights (e.g. 100.424.11) |
 | Exposes | light (state, brightness, color_temp, color_temp_startup), effect, linkquality |
-| Picture | ![Paul Neuhaus NLG-CCT light](../../public/images/devices/NLG-CCT-light.jpg) |
+| Picture | ![Paul Neuhaus NLG-CCT light](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/NLG-CCT-light.jpg) |
+
 
 ## Notes
 

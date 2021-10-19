@@ -1,19 +1,23 @@
 ---
 title: "Schneider Electric 41EPBDWCLMZ/354PBDMBTZ control via MQTT"
-description: "Integrate your Schneider Electric 41EPBDWCLMZ/354PBDMBTZ via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Schneider Electric 41EPBDWCLMZ/354PBDMBTZ via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/41EPBDWCLMZ_354PBDMBTZ.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Schneider Electric 41EPBDWCLMZ/354PBDMBTZ
 
+|     |     |
+|-----|-----|
 | Model | 41EPBDWCLMZ/354PBDMBTZ  |
 | Vendor  | Schneider Electric  |
 | Description | Wiser 40/300-Series Module Dimmer |
 | Exposes | light (state, brightness), ballast_minimum_level, ballast_maximum_level, linkquality |
-| Picture | ![Schneider Electric 41EPBDWCLMZ/354PBDMBTZ](../../public/images/devices/41EPBDWCLMZ-354PBDMBTZ.jpg) |
+| Picture | ![Schneider Electric 41EPBDWCLMZ/354PBDMBTZ](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/41EPBDWCLMZ-354PBDMBTZ.jpg) |
+
 
 ## Notes
 

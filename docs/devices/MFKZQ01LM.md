@@ -1,19 +1,23 @@
 ---
 title: "Xiaomi MFKZQ01LM control via MQTT"
-description: "Integrate your Xiaomi MFKZQ01LM via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Xiaomi MFKZQ01LM via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/MFKZQ01LM.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Xiaomi MFKZQ01LM
 
+|     |     |
+|-----|-----|
 | Model | MFKZQ01LM  |
 | Vendor  | Xiaomi  |
 | Description | Mi/Aqara smart home cube |
 | Exposes | battery, voltage, action_angle, action_from_side, action_side, action_to_side, action, linkquality |
-| Picture | ![Xiaomi MFKZQ01LM](../../public/images/devices/MFKZQ01LM.jpg) |
+| Picture | ![Xiaomi MFKZQ01LM](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/MFKZQ01LM.jpg) |
+
 
 ## Notes
 

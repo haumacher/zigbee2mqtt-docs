@@ -1,19 +1,23 @@
 ---
 title: "YSRSAI YSR-MINI-01_wwcw control via MQTT"
-description: "Integrate your YSRSAI YSR-MINI-01_wwcw via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your YSRSAI YSR-MINI-01_wwcw via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/YSR-MINI-01_wwcw.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # YSRSAI YSR-MINI-01_wwcw
 
+|     |     |
+|-----|-----|
 | Model | YSR-MINI-01_wwcw  |
 | Vendor  | YSRSAI  |
 | Description | Zigbee LED controller (WW/CW) |
 | Exposes | light (state, brightness, color_temp, color_xy), effect, linkquality |
-| Picture | ![YSRSAI YSR-MINI-01_wwcw](../../public/images/devices/YSR-MINI-01_wwcw.jpg) |
+| Picture | ![YSRSAI YSR-MINI-01_wwcw](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/YSR-MINI-01_wwcw.jpg) |
+
 
 ## Notes
 

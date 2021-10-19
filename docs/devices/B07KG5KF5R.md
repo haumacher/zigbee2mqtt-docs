@@ -1,19 +1,23 @@
 ---
 title: "GMY Smart Bulb B07KG5KF5R control via MQTT"
-description: "Integrate your GMY Smart Bulb B07KG5KF5R via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your GMY Smart Bulb B07KG5KF5R via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/B07KG5KF5R.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # GMY Smart Bulb B07KG5KF5R
 
+|     |     |
+|-----|-----|
 | Model | B07KG5KF5R  |
 | Vendor  | GMY Smart Bulb  |
 | Description | GMY Smart bulb, 470lm, vintage dimmable, 2700-6500k, E27 |
 | Exposes | light (state, brightness, color_temp, color_temp_startup), effect, linkquality |
-| Picture | ![GMY Smart Bulb B07KG5KF5R](../../public/images/devices/B07KG5KF5R.jpg) |
+| Picture | ![GMY Smart Bulb B07KG5KF5R](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/B07KG5KF5R.jpg) |
+
 
 ## Notes
 

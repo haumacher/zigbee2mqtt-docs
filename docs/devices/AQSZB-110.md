@@ -1,19 +1,23 @@
 ---
 title: "Develco AQSZB-110 control via MQTT"
-description: "Integrate your Develco AQSZB-110 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Develco AQSZB-110 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/AQSZB-110.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Develco AQSZB-110
 
+|     |     |
+|-----|-----|
 | Model | AQSZB-110  |
 | Vendor  | Develco  |
 | Description | Air quality sensor |
 | Exposes | voc, temperature, humidity, battery, battery_low, air_quality, linkquality |
-| Picture | ![Develco AQSZB-110](../../public/images/devices/AQSZB-110.jpg) |
+| Picture | ![Develco AQSZB-110](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/AQSZB-110.jpg) |
+
 
 ## Notes
 

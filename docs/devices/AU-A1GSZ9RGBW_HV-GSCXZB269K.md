@@ -1,19 +1,23 @@
 ---
 title: "Aurora Lighting AU-A1GSZ9RGBW_HV-GSCXZB269K control via MQTT"
-description: "Integrate your Aurora Lighting AU-A1GSZ9RGBW_HV-GSCXZB269K via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Aurora Lighting AU-A1GSZ9RGBW_HV-GSCXZB269K via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/AU-A1GSZ9RGBW_HV-GSCXZB269K.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Aurora Lighting AU-A1GSZ9RGBW_HV-GSCXZB269K
 
+|     |     |
+|-----|-----|
 | Model | AU-A1GSZ9RGBW_HV-GSCXZB269K  |
 | Vendor  | Aurora Lighting  |
 | Description | AOne 9.5W smart RGBW GLS E27/B22 |
 | Exposes | light (state, brightness, color_temp, color_temp_startup, color_xy), effect, linkquality |
-| Picture | ![Aurora Lighting AU-A1GSZ9RGBW_HV-GSCXZB269K](../../public/images/devices/AU-A1GSZ9RGBW_HV-GSCXZB269K.jpg) |
+| Picture | ![Aurora Lighting AU-A1GSZ9RGBW_HV-GSCXZB269K](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/AU-A1GSZ9RGBW_HV-GSCXZB269K.jpg) |
+
 
 ## Notes
 

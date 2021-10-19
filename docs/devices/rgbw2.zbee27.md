@@ -1,19 +1,23 @@
 ---
 title: "Zipato rgbw2.zbee27 control via MQTT"
-description: "Integrate your Zipato rgbw2.zbee27 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Zipato rgbw2.zbee27 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/rgbw2.zbee27.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Zipato rgbw2.zbee27
 
+|     |     |
+|-----|-----|
 | Model | rgbw2.zbee27  |
 | Vendor  | Zipato  |
 | Description | RGBW LED bulb with dimmer |
 | Exposes | light (state, brightness, color_temp, color_temp_startup, color_xy), effect, linkquality |
-| Picture | ![Zipato rgbw2.zbee27](../../public/images/devices/rgbw2.zbee27.jpg) |
+| Picture | ![Zipato rgbw2.zbee27](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/rgbw2.zbee27.jpg) |
+
 
 ## Notes
 

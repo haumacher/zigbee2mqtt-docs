@@ -1,19 +1,23 @@
 ---
 title: "HEIMAN STHM-I1H control via MQTT"
-description: "Integrate your HEIMAN STHM-I1H via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your HEIMAN STHM-I1H via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/STHM-I1H.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # HEIMAN STHM-I1H
 
+|     |     |
+|-----|-----|
 | Model | STHM-I1H  |
 | Vendor  | HEIMAN  |
 | Description | Heiman temperature & humidity sensor |
 | Exposes | temperature, humidity, battery, linkquality |
-| Picture | ![HEIMAN STHM-I1H](../../public/images/devices/STHM-I1H.jpg) |
+| Picture | ![HEIMAN STHM-I1H](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/STHM-I1H.jpg) |
+
 
 ## Notes
 

@@ -1,19 +1,23 @@
 ---
 title: "Xiaomi QBKG11LM control via MQTT"
-description: "Integrate your Xiaomi QBKG11LM via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Xiaomi QBKG11LM via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/QBKG11LM.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Xiaomi QBKG11LM
 
+|     |     |
+|-----|-----|
 | Model | QBKG11LM  |
 | Vendor  | Xiaomi  |
 | Description | Aqara single key wired wall switch |
 | Exposes | switch (state), power, temperature, action, operation_mode, linkquality |
-| Picture | ![Xiaomi QBKG11LM](../../public/images/devices/QBKG11LM.jpg) |
+| Picture | ![Xiaomi QBKG11LM](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/QBKG11LM.jpg) |
+
 
 ## Notes
 

@@ -1,19 +1,23 @@
 ---
 title: "Custom devices (DiY) EFEKTA_PWS control via MQTT"
-description: "Integrate your Custom devices (DiY) EFEKTA_PWS via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Custom devices (DiY) EFEKTA_PWS via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/EFEKTA_PWS.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Custom devices (DiY) EFEKTA_PWS
 
+|     |     |
+|-----|-----|
 | Model | EFEKTA_PWS  |
 | Vendor  | Custom devices (DiY)  |
 | Description | [Plant Wattering Sensor] |
 | Exposes | soil_moisture, battery, temperature, linkquality |
-| Picture | ![Custom devices (DiY) EFEKTA_PWS](../../public/images/devices/EFEKTA_PWS.jpg) |
+| Picture | ![Custom devices (DiY) EFEKTA_PWS](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/EFEKTA_PWS.jpg) |
+
 
 ## Notes
 

@@ -1,19 +1,23 @@
 ---
 title: "Zemismart LXZB-12A control via MQTT"
-description: "Integrate your Zemismart LXZB-12A via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Zemismart LXZB-12A via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/LXZB-12A.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Zemismart LXZB-12A
 
+|     |     |
+|-----|-----|
 | Model | LXZB-12A  |
 | Vendor  | Zemismart  |
 | Description | RGB LED downlight |
 | Exposes | light (state, brightness, color_temp, color_temp_startup, color_xy), effect, linkquality |
-| Picture | ![Zemismart LXZB-12A](../../public/images/devices/LXZB-12A.jpg) |
+| Picture | ![Zemismart LXZB-12A](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/LXZB-12A.jpg) |
+
 
 ## Notes
 

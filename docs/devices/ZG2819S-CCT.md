@@ -1,19 +1,23 @@
 ---
 title: "Sunricher ZG2819S-CCT control via MQTT"
-description: "Integrate your Sunricher ZG2819S-CCT via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Sunricher ZG2819S-CCT via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/ZG2819S-CCT.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Sunricher ZG2819S-CCT
 
+|     |     |
+|-----|-----|
 | Model | ZG2819S-CCT  |
 | Vendor  | Sunricher  |
 | Description | Zigbee handheld remote CCT 4 channels |
 | Exposes | battery, action, linkquality |
-| Picture | ![Sunricher ZG2819S-CCT](../../public/images/devices/ZG2819S-CCT.jpg) |
+| Picture | ![Sunricher ZG2819S-CCT](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/ZG2819S-CCT.jpg) |
+
 
 ## Notes
 

@@ -1,19 +1,23 @@
 ---
 title: "Sengled E1F-N5E control via MQTT"
-description: "Integrate your Sengled E1F-N5E via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Sengled E1F-N5E via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/E1F-N5E.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Sengled E1F-N5E
 
+|     |     |
+|-----|-----|
 | Model | E1F-N5E  |
 | Vendor  | Sengled  |
 | Description | Element color plus E12 |
 | Exposes | light (state, brightness, color_temp, color_temp_startup, color_xy), effect, linkquality |
-| Picture | ![Sengled E1F-N5E](../../public/images/devices/E1F-N5E.jpg) |
+| Picture | ![Sengled E1F-N5E](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/E1F-N5E.jpg) |
+
 
 ## Notes
 

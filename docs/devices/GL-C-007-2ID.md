@@ -1,19 +1,23 @@
 ---
 title: "Gledopto GL-C-007-2ID control via MQTT"
-description: "Integrate your Gledopto GL-C-007-2ID via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Gledopto GL-C-007-2ID via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/GL-C-007-2ID.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Gledopto GL-C-007-2ID
 
+|     |     |
+|-----|-----|
 | Model | GL-C-007-2ID  |
 | Vendor  | Gledopto  |
 | Description | Zigbee LED Controller RGBW (2 ID) |
 | Exposes | light (state, brightness, color_temp, color_temp_startup, color_xy), light (state, brightness), linkquality |
-| Picture | ![Gledopto GL-C-007-2ID](../../public/images/devices/GL-C-007-2ID.jpg) |
+| Picture | ![Gledopto GL-C-007-2ID](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/GL-C-007-2ID.jpg) |
+
 
 ## Notes
 

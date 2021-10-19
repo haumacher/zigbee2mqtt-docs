@@ -1,19 +1,23 @@
 ---
 title: "Lonsonho ZB-RGBCW control via MQTT"
-description: "Integrate your Lonsonho ZB-RGBCW via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Lonsonho ZB-RGBCW via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/ZB-RGBCW.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Lonsonho ZB-RGBCW
 
+|     |     |
+|-----|-----|
 | Model | ZB-RGBCW  |
 | Vendor  | Lonsonho  |
 | Description | Zigbee 3.0 LED-bulb, RGBW LED |
 | Exposes | light (state, brightness, color_temp, color_xy), linkquality |
-| Picture | ![Lonsonho ZB-RGBCW](../../public/images/devices/ZB-RGBCW.jpg) |
+| Picture | ![Lonsonho ZB-RGBCW](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/ZB-RGBCW.jpg) |
+
 
 ## Notes
 

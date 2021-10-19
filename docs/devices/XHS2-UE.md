@@ -1,19 +1,23 @@
 ---
 title: "Universal Electronics Inc XHS2-UE control via MQTT"
-description: "Integrate your Universal Electronics Inc XHS2-UE via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Universal Electronics Inc XHS2-UE via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/XHS2-UE.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Universal Electronics Inc XHS2-UE
 
+|     |     |
+|-----|-----|
 | Model | XHS2-UE  |
 | Vendor  | Universal Electronics Inc  |
 | Description | Magnetic door & window contact sensor |
 | Exposes | contact, battery_low, tamper, temperature, battery, linkquality |
-| Picture | ![Universal Electronics Inc XHS2-UE](../../public/images/devices/XHS2-UE.jpg) |
+| Picture | ![Universal Electronics Inc XHS2-UE](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/XHS2-UE.jpg) |
+
 
 ## Notes
 

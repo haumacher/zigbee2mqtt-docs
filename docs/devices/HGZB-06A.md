@@ -1,19 +1,23 @@
 ---
 title: "Nue / 3A HGZB-06A control via MQTT"
-description: "Integrate your Nue / 3A HGZB-06A via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Nue / 3A HGZB-06A via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/HGZB-06A.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Nue / 3A HGZB-06A
 
+|     |     |
+|-----|-----|
 | Model | HGZB-06A  |
 | Vendor  | Nue / 3A  |
 | Description | Smart 7W E27 light bulb |
 | Exposes | light (state, brightness, color_temp, color_temp_startup, color_xy), effect, linkquality |
-| Picture | ![Nue / 3A HGZB-06A](../../public/images/devices/HGZB-06A.jpg) |
+| Picture | ![Nue / 3A HGZB-06A](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/HGZB-06A.jpg) |
+
 
 ## Notes
 

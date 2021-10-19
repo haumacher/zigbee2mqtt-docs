@@ -1,19 +1,23 @@
 ---
 title: "Gledopto GD-CZ-006 control via MQTT"
-description: "Integrate your Gledopto GD-CZ-006 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Gledopto GD-CZ-006 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/GD-CZ-006.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Gledopto GD-CZ-006
 
+|     |     |
+|-----|-----|
 | Model | GD-CZ-006  |
 | Vendor  | Gledopto  |
 | Description | Zigbee LED Controller WW/CW |
 | Exposes | light (state, brightness), effect, linkquality |
-| Picture | ![Gledopto GD-CZ-006](../../public/images/devices/GD-CZ-006.jpg) |
+| Picture | ![Gledopto GD-CZ-006](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/GD-CZ-006.jpg) |
+
 
 ## Notes
 

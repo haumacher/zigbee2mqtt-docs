@@ -1,19 +1,23 @@
 ---
 title: "TuYa TYZS1L control via MQTT"
-description: "Integrate your TuYa TYZS1L via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your TuYa TYZS1L via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/TYZS1L.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # TuYa TYZS1L
 
+|     |     |
+|-----|-----|
 | Model | TYZS1L  |
 | Vendor  | TuYa  |
 | Description | Led strip controller HSB |
 | Exposes | light (state, color_hs), linkquality |
-| Picture | ![TuYa TYZS1L](../../public/images/devices/TYZS1L.jpg) |
+| Picture | ![TuYa TYZS1L](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/TYZS1L.jpg) |
+
 
 ## Notes
 

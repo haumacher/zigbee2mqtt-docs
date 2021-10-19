@@ -1,19 +1,23 @@
 ---
 title: "GS BRHM8E27W70-I1 control via MQTT"
-description: "Integrate your GS BRHM8E27W70-I1 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your GS BRHM8E27W70-I1 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/BRHM8E27W70-I1.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # GS BRHM8E27W70-I1
 
+|     |     |
+|-----|-----|
 | Model | BRHM8E27W70-I1  |
 | Vendor  | GS  |
 | Description | Smart dimmable, RGB + white (E27 & B22) |
 | Exposes | light (state, brightness, color_xy), effect, linkquality |
-| Picture | ![GS BRHM8E27W70-I1](../../public/images/devices/BRHM8E27W70-I1.jpg) |
+| Picture | ![GS BRHM8E27W70-I1](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/BRHM8E27W70-I1.jpg) |
+
 
 ## Notes
 

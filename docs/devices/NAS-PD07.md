@@ -1,19 +1,23 @@
 ---
 title: "Neo NAS-PD07 control via MQTT"
-description: "Integrate your Neo NAS-PD07 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Neo NAS-PD07 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/NAS-PD07.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Neo NAS-PD07
 
+|     |     |
+|-----|-----|
 | Model | NAS-PD07  |
 | Vendor  | Neo  |
 | Description | Motion, temperature & humidity sensor |
-| Exposes | occupancy, humidity, temperature, tamper, power_type, linkquality |
-| Picture | ![Neo NAS-PD07](../../public/images/devices/NAS-PD07.jpg) |
+| Exposes | occupancy, humidity, temperature, tamper, battery_low, power_type, linkquality |
+| Picture | ![Neo NAS-PD07](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/NAS-PD07.jpg) |
+
 
 ## Notes
 
@@ -59,6 +63,12 @@ Indicates whether the device is tampered.
 Value can be found in the published state on the `tamper` property.
 It's not possible to read (`/get`) or write (`/set`) this value.
 If value equals `true` tamper is ON, if `false` OFF.
+
+### Battery_low (binary)
+Indicates if the battery of this device is almost empty.
+Value can be found in the published state on the `battery_low` property.
+It's not possible to read (`/get`) or write (`/set`) this value.
+If value equals `true` battery_low is ON, if `false` OFF.
 
 ### Power_type (enum)
 Value can be found in the published state on the `power_type` property.

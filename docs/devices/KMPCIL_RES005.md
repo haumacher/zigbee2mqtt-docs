@@ -1,19 +1,23 @@
 ---
 title: "KMPCIL KMPCIL_RES005 control via MQTT"
-description: "Integrate your KMPCIL KMPCIL_RES005 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your KMPCIL KMPCIL_RES005 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/KMPCIL_RES005.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # KMPCIL KMPCIL_RES005
 
+|     |     |
+|-----|-----|
 | Model | KMPCIL_RES005  |
 | Vendor  | KMPCIL  |
 | Description | Environment sensor |
 | Exposes | battery, temperature, humidity, pressure, illuminance, illuminance_lux, occupancy, switch (state), linkquality |
-| Picture | ![KMPCIL KMPCIL_RES005](../../public/images/devices/KMPCIL_RES005.jpg) |
+| Picture | ![KMPCIL KMPCIL_RES005](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/KMPCIL_RES005.jpg) |
+
 
 ## Notes
 

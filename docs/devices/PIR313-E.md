@@ -1,19 +1,23 @@
 ---
 title: "OWON PIR313-E control via MQTT"
-description: "Integrate your OWON PIR313-E via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your OWON PIR313-E via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/PIR313-E.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # OWON PIR313-E
 
+|     |     |
+|-----|-----|
 | Model | PIR313-E  |
 | Vendor  | OWON  |
 | Description | Motion sensor |
 | Exposes | occupancy, tamper, battery_low, illuminance, illuminance_lux, temperature, humidity, linkquality |
-| Picture | ![OWON PIR313-E](../../public/images/devices/PIR313-E.jpg) |
+| Picture | ![OWON PIR313-E](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/PIR313-E.jpg) |
+
 
 ## Notes
 

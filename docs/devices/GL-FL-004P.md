@@ -1,19 +1,23 @@
 ---
 title: "Gledopto GL-FL-004P control via MQTT"
-description: "Integrate your Gledopto GL-FL-004P via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Gledopto GL-FL-004P via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/GL-FL-004P.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Gledopto GL-FL-004P
 
+|     |     |
+|-----|-----|
 | Model | GL-FL-004P  |
 | Vendor  | Gledopto  |
 | Description | Zigbee 10W Floodlight RGB+CCT (pro) |
 | Exposes | light (state, brightness, color_temp, color_temp_startup, color_xy, color_hs), effect, linkquality |
-| Picture | ![Gledopto GL-FL-004P](../../public/images/devices/GL-FL-004P.jpg) |
+| Picture | ![Gledopto GL-FL-004P](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/GL-FL-004P.jpg) |
+
 
 ## Notes
 

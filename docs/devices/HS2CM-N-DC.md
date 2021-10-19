@@ -1,19 +1,23 @@
 ---
 title: "HEIMAN HS2CM-N-DC control via MQTT"
-description: "Integrate your HEIMAN HS2CM-N-DC via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your HEIMAN HS2CM-N-DC via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/HS2CM-N-DC.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # HEIMAN HS2CM-N-DC
 
+|     |     |
+|-----|-----|
 | Model | HS2CM-N-DC  |
 | Vendor  | HEIMAN  |
 | Description | Gear window shade motor |
 | Exposes | cover (state, position), linkquality |
-| Picture | ![HEIMAN HS2CM-N-DC](../../public/images/devices/HS2CM-N-DC.jpg) |
+| Picture | ![HEIMAN HS2CM-N-DC](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/HS2CM-N-DC.jpg) |
+
 
 ## Notes
 

@@ -1,19 +1,23 @@
 ---
 title: "Custom devices (DiY) ZeeFlora control via MQTT"
-description: "Integrate your Custom devices (DiY) ZeeFlora via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Custom devices (DiY) ZeeFlora via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/ZeeFlora.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Custom devices (DiY) ZeeFlora
 
+|     |     |
+|-----|-----|
 | Model | ZeeFlora  |
 | Vendor  | Custom devices (DiY)  |
 | Description | Flower sensor with rechargeable battery |
 | Exposes | soil_moisture, battery, illuminance, temperature, linkquality |
-| Picture | ![Custom devices (DiY) ZeeFlora](../../public/images/devices/ZeeFlora.jpg) |
+| Picture | ![Custom devices (DiY) ZeeFlora](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/ZeeFlora.jpg) |
+
 
 ## Notes
 

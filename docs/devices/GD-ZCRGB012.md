@@ -1,19 +1,23 @@
 ---
 title: "GIDERWEL GD-ZCRGB012 control via MQTT"
-description: "Integrate your GIDERWEL GD-ZCRGB012 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your GIDERWEL GD-ZCRGB012 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/GD-ZCRGB012.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # GIDERWEL GD-ZCRGB012
 
+|     |     |
+|-----|-----|
 | Model | GD-ZCRGB012  |
 | Vendor  | GIDERWEL  |
 | Description | Smart Zigbee RGB LED strip controller |
 | Exposes | light (state, brightness, color_xy), effect, linkquality |
-| Picture | ![GIDERWEL GD-ZCRGB012](../../public/images/devices/GD-ZCRGB012.jpg) |
+| Picture | ![GIDERWEL GD-ZCRGB012](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/GD-ZCRGB012.jpg) |
+
 
 ## Notes
 

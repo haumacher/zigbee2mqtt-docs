@@ -1,19 +1,23 @@
 ---
 title: "Xiaomi ZNLDP12LM control via MQTT"
-description: "Integrate your Xiaomi ZNLDP12LM via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Xiaomi ZNLDP12LM via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/ZNLDP12LM.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Xiaomi ZNLDP12LM
 
+|     |     |
+|-----|-----|
 | Model | ZNLDP12LM  |
 | Vendor  | Xiaomi  |
 | Description | Aqara smart LED bulb |
 | Exposes | light (state, brightness, color_temp), effect, power_outage_memory, linkquality |
-| Picture | ![Xiaomi ZNLDP12LM](../../public/images/devices/ZNLDP12LM.jpg) |
+| Picture | ![Xiaomi ZNLDP12LM](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/ZNLDP12LM.jpg) |
+
 
 ## Notes
 

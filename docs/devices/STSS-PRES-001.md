@@ -1,19 +1,23 @@
 ---
 title: "SmartThings STSS-PRES-001 control via MQTT"
-description: "Integrate your SmartThings STSS-PRES-001 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your SmartThings STSS-PRES-001 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/STSS-PRES-001.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # SmartThings STSS-PRES-001
 
+|     |     |
+|-----|-----|
 | Model | STSS-PRES-001  |
 | Vendor  | SmartThings  |
 | Description | Presence sensor |
 | Exposes | battery, presence, linkquality |
-| Picture | ![SmartThings STSS-PRES-001](../../public/images/devices/STSS-PRES-001.jpg) |
+| Picture | ![SmartThings STSS-PRES-001](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/STSS-PRES-001.jpg) |
+
 
 ## Notes
 

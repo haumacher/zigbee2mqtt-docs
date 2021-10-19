@@ -1,19 +1,23 @@
 ---
 title: "Visonic MCT-340 E control via MQTT"
-description: "Integrate your Visonic MCT-340 E via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Visonic MCT-340 E via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/MCT-340_E.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Visonic MCT-340 E
 
+|     |     |
+|-----|-----|
 | Model | MCT-340 E  |
 | Vendor  | Visonic  |
 | Description | Magnetic door & window contact sensor |
 | Exposes | contact, battery_low, tamper, temperature, battery, linkquality |
-| Picture | ![Visonic MCT-340 E](../../public/images/devices/MCT-340-E.jpg) |
+| Picture | ![Visonic MCT-340 E](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/MCT-340-E.jpg) |
+
 
 ## Notes
 

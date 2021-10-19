@@ -1,19 +1,23 @@
 ---
 title: "HEIMAN HS2AQ-EM control via MQTT"
-description: "Integrate your HEIMAN HS2AQ-EM via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your HEIMAN HS2AQ-EM via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/HS2AQ-EM.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # HEIMAN HS2AQ-EM
 
+|     |     |
+|-----|-----|
 | Model | HS2AQ-EM  |
 | Vendor  | HEIMAN  |
 | Description | Air quality monitor |
 | Exposes | battery, temperature, humidity, pm25, hcho, voc, aqi, pm10, battery_state, linkquality |
-| Picture | ![HEIMAN HS2AQ-EM](../../public/images/devices/HS2AQ-EM.jpg) |
+| Picture | ![HEIMAN HS2AQ-EM](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/HS2AQ-EM.jpg) |
+
 
 ## Notes
 

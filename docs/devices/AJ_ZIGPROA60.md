@@ -1,19 +1,23 @@
 ---
 title: "Ajax Online AJ_ZIGPROA60 control via MQTT"
-description: "Integrate your Ajax Online AJ_ZIGPROA60 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Ajax Online AJ_ZIGPROA60 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/AJ_ZIGPROA60.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Ajax Online AJ_ZIGPROA60
 
+|     |     |
+|-----|-----|
 | Model | AJ_ZIGPROA60  |
 | Vendor  | Ajax Online  |
 | Description | Smart Zigbee pro 12W A60 bulb |
 | Exposes | light (state, brightness, color_temp, color_temp_startup, color_xy), effect, linkquality |
-| Picture | ![Ajax Online AJ_ZIGPROA60](../../public/images/devices/AJ_ZIGPROA60.jpg) |
+| Picture | ![Ajax Online AJ_ZIGPROA60](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/AJ_ZIGPROA60.jpg) |
+
 
 ## Notes
 

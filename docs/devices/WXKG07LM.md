@@ -1,19 +1,23 @@
 ---
 title: "Xiaomi WXKG07LM control via MQTT"
-description: "Integrate your Xiaomi WXKG07LM via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Xiaomi WXKG07LM via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/WXKG07LM.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Xiaomi WXKG07LM
 
+|     |     |
+|-----|-----|
 | Model | WXKG07LM  |
 | Vendor  | Xiaomi  |
 | Description | Aqara D1 double key wireless wall switch |
 | Exposes | battery, voltage, action, linkquality |
-| Picture | ![Xiaomi WXKG07LM](../../public/images/devices/WXKG07LM.jpg) |
+| Picture | ![Xiaomi WXKG07LM](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/WXKG07LM.jpg) |
+
 
 ## Notes
 

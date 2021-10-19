@@ -1,19 +1,23 @@
 ---
 title: "Xiaomi QBKG25LM control via MQTT"
-description: "Integrate your Xiaomi QBKG25LM via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Xiaomi QBKG25LM via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/QBKG25LM.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Xiaomi QBKG25LM
 
+|     |     |
+|-----|-----|
 | Model | QBKG25LM  |
 | Vendor  | Xiaomi  |
 | Description | Aqara D1 3 gang smart wall switch (no neutral wire) |
-| Exposes | switch (state), operation_mode, power_outage_memory, led_disabled_night, temperature, action, linkquality |
-| Picture | ![Xiaomi QBKG25LM](../../public/images/devices/QBKG25LM.jpg) |
+| Exposes | switch (state), operation_mode, mode_switch, power_outage_memory, led_disabled_night, temperature, action, linkquality |
+| Picture | ![Xiaomi QBKG25LM](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/QBKG25LM.jpg) |
+
 
 ## Notes
 
@@ -91,6 +95,13 @@ Value can be found in the published state on the `operation_mode_right` property
 To read (`/get`) the value publish a message to topic `zigbee2mqtt/FRIENDLY_NAME/get` with payload `{"operation_mode_right": ""}`.
 To write (`/set`) a value publish a message to topic `zigbee2mqtt/FRIENDLY_NAME/set` with payload `{"operation_mode_right": NEW_VALUE}`.
 The possible values are: `control_relay`, `decoupled`.
+
+### Mode_switch (enum)
+Anti flicker mode can be used to solve blinking issues of some lights.Quick mode makes the device respond faster..
+Value can be found in the published state on the `mode_switch` property.
+To read (`/get`) the value publish a message to topic `zigbee2mqtt/FRIENDLY_NAME/get` with payload `{"mode_switch": ""}`.
+To write (`/set`) a value publish a message to topic `zigbee2mqtt/FRIENDLY_NAME/set` with payload `{"mode_switch": NEW_VALUE}`.
+The possible values are: `anti_flicker_mode`, `quick_mode`.
 
 ### Power_outage_memory (binary)
 Enable/disable the power outage memory, this recovers the on/off mode after power failure.

@@ -3,7 +3,8 @@ import { sidebar } from "./sidebar";
 import * as path from "path";
 import { DefinePlugin, IgnorePlugin } from 'webpack';
 
-const base = '/zigbee2mqtt-docs/';
+export const domain = 'https://psi-4ward.github.io';
+export const base = '/zigbee2mqtt-docs/';
 const pagePatterns = ['**/*.md', '!.vuepress', '!node_modules'];
 
 // Ability to exclude device-page rendering to save time while in dev
@@ -83,11 +84,6 @@ export default {
           __QUASAR_SSR_SERVER__: false,
           __QUASAR_SSR_CLIENT__: false,
           __QUASAR_SSR_PWA__: false
-        }]);
-      // Webpack takes way to much resources handling devices images
-      chain.plugin('ignore-public-images')
-        .use(IgnorePlugin, [{
-          resourceRegExp: /public\\images/,
         }]);
       chain.cache({ 'type': 'filesystem' });
     },

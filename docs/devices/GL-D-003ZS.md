@@ -1,19 +1,23 @@
 ---
 title: "Gledopto GL-D-003ZS control via MQTT"
-description: "Integrate your Gledopto GL-D-003ZS via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Gledopto GL-D-003ZS via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/GL-D-003ZS.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Gledopto GL-D-003ZS
 
+|     |     |
+|-----|-----|
 | Model | GL-D-003ZS  |
 | Vendor  | Gledopto  |
 | Description | Zigbee 6W Downlight RGB+CCT (plus) |
 | Exposes | light (state, brightness, color_temp, color_temp_startup, color_xy, color_hs), effect, linkquality |
-| Picture | ![Gledopto GL-D-003ZS](../../public/images/devices/GL-D-003ZS.jpg) |
+| Picture | ![Gledopto GL-D-003ZS](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/GL-D-003ZS.jpg) |
+
 
 ## Notes
 

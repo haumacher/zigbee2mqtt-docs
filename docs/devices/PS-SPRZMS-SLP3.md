@@ -1,19 +1,23 @@
 ---
 title: "PLAID SYSTEMS PS-SPRZMS-SLP3 control via MQTT"
-description: "Integrate your PLAID SYSTEMS PS-SPRZMS-SLP3 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your PLAID SYSTEMS PS-SPRZMS-SLP3 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/PS-SPRZMS-SLP3.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # PLAID SYSTEMS PS-SPRZMS-SLP3
 
+|     |     |
+|-----|-----|
 | Model | PS-SPRZMS-SLP3  |
 | Vendor  | PLAID SYSTEMS  |
 | Description | Spruce temperature and moisture sensor |
 | Exposes | humidity, temperature, linkquality |
-| Picture | ![PLAID SYSTEMS PS-SPRZMS-SLP3](../../public/images/devices/PS-SPRZMS-SLP3.jpg) |
+| Picture | ![PLAID SYSTEMS PS-SPRZMS-SLP3](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/PS-SPRZMS-SLP3.jpg) |
+
 
 ## Notes
 

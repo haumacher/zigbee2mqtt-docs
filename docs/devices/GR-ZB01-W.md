@@ -1,19 +1,23 @@
 ---
 title: "AXIS GR-ZB01-W control via MQTT"
-description: "Integrate your AXIS GR-ZB01-W via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your AXIS GR-ZB01-W via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/GR-ZB01-W.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # AXIS GR-ZB01-W
 
+|     |     |
+|-----|-----|
 | Model | GR-ZB01-W  |
 | Vendor  | AXIS  |
 | Description | Gear window shade motor |
 | Exposes | cover (state, position), battery, linkquality |
-| Picture | ![AXIS GR-ZB01-W](../../public/images/devices/GR-ZB01-W.jpg) |
+| Picture | ![AXIS GR-ZB01-W](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/GR-ZB01-W.jpg) |
+
 
 ## Notes
 

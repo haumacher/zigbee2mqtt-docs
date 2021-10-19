@@ -1,19 +1,23 @@
 ---
 title: "Hive HV-GSCXZB279_HV-GSCXZB229_HV-GSCXZB229K control via MQTT"
-description: "Integrate your Hive HV-GSCXZB279_HV-GSCXZB229_HV-GSCXZB229K via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Hive HV-GSCXZB279_HV-GSCXZB229_HV-GSCXZB229K via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/HV-GSCXZB279_HV-GSCXZB229_HV-GSCXZB229K.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Hive HV-GSCXZB279_HV-GSCXZB229_HV-GSCXZB229K
 
+|     |     |
+|-----|-----|
 | Model | HV-GSCXZB279_HV-GSCXZB229_HV-GSCXZB229K  |
 | Vendor  | Hive  |
 | Description | Active light, warm to cool white (E27 & B22) |
 | Exposes | light (state, brightness, color_temp, color_temp_startup), effect, linkquality |
-| Picture | ![Hive HV-GSCXZB279_HV-GSCXZB229_HV-GSCXZB229K](../../public/images/devices/HV-GSCXZB279_HV-GSCXZB229_HV-GSCXZB229K.jpg) |
+| Picture | ![Hive HV-GSCXZB279_HV-GSCXZB229_HV-GSCXZB229K](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/HV-GSCXZB279_HV-GSCXZB229_HV-GSCXZB229K.jpg) |
+
 
 ## Notes
 

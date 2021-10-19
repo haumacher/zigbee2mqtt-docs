@@ -1,19 +1,23 @@
 ---
 title: "LifeControl MCLH-08 control via MQTT"
-description: "Integrate your LifeControl MCLH-08 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your LifeControl MCLH-08 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/MCLH-08.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # LifeControl MCLH-08
 
+|     |     |
+|-----|-----|
 | Model | MCLH-08  |
 | Vendor  | LifeControl  |
 | Description | Air sensor |
 | Exposes | temperature, humidity, voc, eco2, linkquality |
-| Picture | ![LifeControl MCLH-08](../../public/images/devices/MCLH-08.jpg) |
+| Picture | ![LifeControl MCLH-08](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/MCLH-08.jpg) |
+
 
 ## Notes
 

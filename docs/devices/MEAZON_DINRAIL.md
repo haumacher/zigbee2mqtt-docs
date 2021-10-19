@@ -1,19 +1,23 @@
 ---
 title: "Meazon MEAZON_DINRAIL control via MQTT"
-description: "Integrate your Meazon MEAZON_DINRAIL via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Meazon MEAZON_DINRAIL via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/MEAZON_DINRAIL.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Meazon MEAZON_DINRAIL
 
+|     |     |
+|-----|-----|
 | Model | MEAZON_DINRAIL  |
 | Vendor  | Meazon  |
 | Description | DinRail 1-phase meter |
 | Exposes | switch (state), power, voltage, current, linkquality |
-| Picture | ![Meazon MEAZON_DINRAIL](../../public/images/devices/MEAZON_DINRAIL.jpg) |
+| Picture | ![Meazon MEAZON_DINRAIL](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/MEAZON_DINRAIL.jpg) |
+
 
 ## Notes
 

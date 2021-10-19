@@ -1,19 +1,23 @@
 ---
 title: "TERNCY TERNCY-DC01 control via MQTT"
-description: "Integrate your TERNCY TERNCY-DC01 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your TERNCY TERNCY-DC01 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/TERNCY-DC01.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # TERNCY TERNCY-DC01
 
+|     |     |
+|-----|-----|
 | Model | TERNCY-DC01  |
 | Vendor  | TERNCY  |
 | Description | Temperature & contact sensor  |
 | Exposes | temperature, contact, battery, linkquality |
-| Picture | ![TERNCY TERNCY-DC01](../../public/images/devices/TERNCY-DC01.jpg) |
+| Picture | ![TERNCY TERNCY-DC01](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/TERNCY-DC01.jpg) |
+
 
 ## Notes
 

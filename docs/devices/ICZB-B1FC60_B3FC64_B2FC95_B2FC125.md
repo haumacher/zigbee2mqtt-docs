@@ -1,19 +1,23 @@
 ---
 title: "iCasa ICZB-B1FC60/B3FC64/B2FC95/B2FC125 control via MQTT"
-description: "Integrate your iCasa ICZB-B1FC60/B3FC64/B2FC95/B2FC125 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your iCasa ICZB-B1FC60/B3FC64/B2FC95/B2FC125 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/ICZB-B1FC60_B3FC64_B2FC95_B2FC125.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # iCasa ICZB-B1FC60/B3FC64/B2FC95/B2FC125
 
+|     |     |
+|-----|-----|
 | Model | ICZB-B1FC60/B3FC64/B2FC95/B2FC125  |
 | Vendor  | iCasa  |
 | Description | Zigbee 3.0 Filament Lamp 60/64/95/125 mm, 806 lumen, dimmable, clear |
 | Exposes | light (state, brightness, color_temp, color_temp_startup), effect, linkquality |
-| Picture | ![iCasa ICZB-B1FC60/B3FC64/B2FC95/B2FC125](../../public/images/devices/ICZB-B1FC60-B3FC64-B2FC95-B2FC125.jpg) |
+| Picture | ![iCasa ICZB-B1FC60/B3FC64/B2FC95/B2FC125](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/ICZB-B1FC60-B3FC64-B2FC95-B2FC125.jpg) |
+
 
 ## Notes
 

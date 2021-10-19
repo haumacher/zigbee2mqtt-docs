@@ -1,19 +1,23 @@
 ---
 title: "ELKO 316GLEDRF control via MQTT"
-description: "Integrate your ELKO 316GLEDRF via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your ELKO 316GLEDRF via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/316GLEDRF.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # ELKO 316GLEDRF
 
+|     |     |
+|-----|-----|
 | Model | 316GLEDRF  |
 | Vendor  | ELKO  |
 | Description | ZigBee in-wall smart dimmer |
 | Exposes | light (state, brightness), effect, linkquality |
-| Picture | ![ELKO 316GLEDRF](../../public/images/devices/316GLEDRF.jpg) |
+| Picture | ![ELKO 316GLEDRF](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/316GLEDRF.jpg) |
+
 
 ## Notes
 

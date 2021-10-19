@@ -1,19 +1,23 @@
 ---
 title: "Paul Neuhaus NLG-TW light control via MQTT"
-description: "Integrate your Paul Neuhaus NLG-TW light via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Paul Neuhaus NLG-TW light via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/NLG-TW_light.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Paul Neuhaus NLG-TW light
 
+|     |     |
+|-----|-----|
 | Model | NLG-TW light  |
 | Vendor  | Paul Neuhaus  |
 | Description | Various tunable white lights (e.g. 8195-55) |
 | Exposes | light (state, brightness, color_temp, color_temp_startup), effect, linkquality |
-| Picture | ![Paul Neuhaus NLG-TW light](../../public/images/devices/NLG-TW-light.jpg) |
+| Picture | ![Paul Neuhaus NLG-TW light](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/NLG-TW-light.jpg) |
+
 
 ## Notes
 

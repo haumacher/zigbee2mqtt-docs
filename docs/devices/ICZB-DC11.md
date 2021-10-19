@@ -1,19 +1,23 @@
 ---
 title: "iCasa ICZB-DC11 control via MQTT"
-description: "Integrate your iCasa ICZB-DC11 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your iCasa ICZB-DC11 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/ICZB-DC11.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # iCasa ICZB-DC11
 
+|     |     |
+|-----|-----|
 | Model | ICZB-DC11  |
 | Vendor  | iCasa  |
 | Description | ZigBee 12-36V DC LED dimmer |
 | Exposes | light (state, brightness), effect, linkquality |
-| Picture | ![iCasa ICZB-DC11](../../public/images/devices/ICZB-DC11.jpg) |
+| Picture | ![iCasa ICZB-DC11](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/ICZB-DC11.jpg) |
+
 
 ## Notes
 

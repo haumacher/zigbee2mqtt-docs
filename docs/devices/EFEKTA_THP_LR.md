@@ -1,19 +1,23 @@
 ---
 title: "Custom devices (DiY) EFEKTA_THP_LR control via MQTT"
-description: "Integrate your Custom devices (DiY) EFEKTA_THP_LR via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Custom devices (DiY) EFEKTA_THP_LR via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/EFEKTA_THP_LR.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Custom devices (DiY) EFEKTA_THP_LR
 
+|     |     |
+|-----|-----|
 | Model | EFEKTA_THP_LR  |
 | Vendor  | Custom devices (DiY)  |
 | Description | DIY outdoor long-range sensor for temperature, humidity and atmospheric pressure |
 | Exposes | battery, temperature, humidity, pressure, linkquality |
-| Picture | ![Custom devices (DiY) EFEKTA_THP_LR](../../public/images/devices/EFEKTA_THP_LR.jpg) |
+| Picture | ![Custom devices (DiY) EFEKTA_THP_LR](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/EFEKTA_THP_LR.jpg) |
+
 
 ## Notes
 

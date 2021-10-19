@@ -1,19 +1,23 @@
 ---
 title: "CY-LIGHTING DM A60F control via MQTT"
-description: "Integrate your CY-LIGHTING DM A60F via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your CY-LIGHTING DM A60F via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/DM_A60F.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # CY-LIGHTING DM A60F
 
+|     |     |
+|-----|-----|
 | Model | DM A60F  |
 | Vendor  | CY-LIGHTING  |
 | Description | 6W smart dimmable E27 lamp 2700K |
 | Exposes | light (state, brightness), effect, linkquality |
-| Picture | ![CY-LIGHTING DM A60F](../../public/images/devices/DM-A60F.jpg) |
+| Picture | ![CY-LIGHTING DM A60F](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/DM-A60F.jpg) |
+
 
 ## Notes
 

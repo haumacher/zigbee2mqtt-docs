@@ -1,19 +1,23 @@
 ---
 title: "Nue / 3A HGZB-DLC4-N12B control via MQTT"
-description: "Integrate your Nue / 3A HGZB-DLC4-N12B via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Nue / 3A HGZB-DLC4-N12B via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/HGZB-DLC4-N12B.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Nue / 3A HGZB-DLC4-N12B
 
+|     |     |
+|-----|-----|
 | Model | HGZB-DLC4-N12B  |
 | Vendor  | Nue / 3A  |
 | Description | RGB LED downlight |
 | Exposes | light (state, brightness, color_temp, color_temp_startup, color_xy), effect, linkquality |
-| Picture | ![Nue / 3A HGZB-DLC4-N12B](../../public/images/devices/HGZB-DLC4-N12B.jpg) |
+| Picture | ![Nue / 3A HGZB-DLC4-N12B](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/HGZB-DLC4-N12B.jpg) |
+
 
 ## Notes
 

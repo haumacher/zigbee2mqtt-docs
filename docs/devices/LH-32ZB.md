@@ -1,19 +1,23 @@
 ---
 title: "iHORN LH-32ZB control via MQTT"
-description: "Integrate your iHORN LH-32ZB via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your iHORN LH-32ZB via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/LH-32ZB.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # iHORN LH-32ZB
 
+|     |     |
+|-----|-----|
 | Model | LH-32ZB  |
 | Vendor  | iHORN  |
 | Description | Temperature & humidity sensor |
 | Exposes | humidity, temperature, battery, linkquality |
-| Picture | ![iHORN LH-32ZB](../../public/images/devices/LH-32ZB.jpg) |
+| Picture | ![iHORN LH-32ZB](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/LH-32ZB.jpg) |
+
 
 ## Notes
 

@@ -1,19 +1,23 @@
 ---
 title: "Xiaomi GZCGQ01LM control via MQTT"
-description: "Integrate your Xiaomi GZCGQ01LM via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Xiaomi GZCGQ01LM via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/GZCGQ01LM.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Xiaomi GZCGQ01LM
 
+|     |     |
+|-----|-----|
 | Model | GZCGQ01LM  |
 | Vendor  | Xiaomi  |
 | Description | MiJia light intensity sensor |
 | Exposes | battery, illuminance, illuminance_lux, linkquality |
-| Picture | ![Xiaomi GZCGQ01LM](../../public/images/devices/GZCGQ01LM.jpg) |
+| Picture | ![Xiaomi GZCGQ01LM](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/GZCGQ01LM.jpg) |
+
 
 ## Notes
 

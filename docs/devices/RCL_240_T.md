@@ -1,19 +1,23 @@
 ---
 title: "Innr RCL 240 T control via MQTT"
-description: "Integrate your Innr RCL 240 T via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Innr RCL 240 T via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/RCL_240_T.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Innr RCL 240 T
 
+|     |     |
+|-----|-----|
 | Model | RCL 240 T  |
 | Vendor  | Innr  |
 | Description | Smart round ceiling lamp comfort |
 | Exposes | light (state, brightness, color_temp, color_temp_startup), effect, linkquality |
-| Picture | ![Innr RCL 240 T](../../public/images/devices/RCL-240-T.jpg) |
+| Picture | ![Innr RCL 240 T](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/RCL-240-T.jpg) |
+
 
 ## Notes
 

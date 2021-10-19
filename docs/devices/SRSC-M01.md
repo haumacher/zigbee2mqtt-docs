@@ -1,19 +1,23 @@
 ---
 title: "Xiaomi SRSC-M01 control via MQTT"
-description: "Integrate your Xiaomi SRSC-M01 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Xiaomi SRSC-M01 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/SRSC-M01.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Xiaomi SRSC-M01
 
+|     |     |
+|-----|-----|
 | Model | SRSC-M01  |
 | Vendor  | Xiaomi  |
 | Description | Aqara roller shade motor |
 | Exposes | cover (state, position), linkquality |
-| Picture | ![Xiaomi SRSC-M01](../../public/images/devices/SRSC-M01.jpg) |
+| Picture | ![Xiaomi SRSC-M01](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/SRSC-M01.jpg) |
+
 
 ## Notes
 

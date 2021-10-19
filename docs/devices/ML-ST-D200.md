@@ -1,19 +1,23 @@
 ---
 title: "M-ELEC ML-ST-D200 control via MQTT"
-description: "Integrate your M-ELEC ML-ST-D200 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your M-ELEC ML-ST-D200 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/ML-ST-D200.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # M-ELEC ML-ST-D200
 
+|     |     |
+|-----|-----|
 | Model | ML-ST-D200  |
 | Vendor  | M-ELEC  |
 | Description | Stitchy Dim switchable wall module |
 | Exposes | light (state, brightness), effect, linkquality |
-| Picture | ![M-ELEC ML-ST-D200](../../public/images/devices/ML-ST-D200.jpg) |
+| Picture | ![M-ELEC ML-ST-D200](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/ML-ST-D200.jpg) |
+
 
 ## Notes
 

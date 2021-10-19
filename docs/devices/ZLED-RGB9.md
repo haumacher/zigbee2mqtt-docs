@@ -1,19 +1,23 @@
 ---
 title: "Trust ZLED-RGB9 control via MQTT"
-description: "Integrate your Trust ZLED-RGB9 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Trust ZLED-RGB9 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/ZLED-RGB9.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Trust ZLED-RGB9
 
+|     |     |
+|-----|-----|
 | Model | ZLED-RGB9  |
 | Vendor  | Trust  |
 | Description | Smart RGB LED bulb |
 | Exposes | light (state, brightness, color_temp, color_temp_startup, color_xy), effect, linkquality |
-| Picture | ![Trust ZLED-RGB9](../../public/images/devices/ZLED-RGB9.jpg) |
+| Picture | ![Trust ZLED-RGB9](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/ZLED-RGB9.jpg) |
+
 
 ## Notes
 

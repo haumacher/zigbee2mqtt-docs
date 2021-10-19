@@ -1,19 +1,23 @@
 ---
 title: "Sengled E1G-G8E control via MQTT"
-description: "Integrate your Sengled E1G-G8E via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Sengled E1G-G8E via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/E1G-G8E.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Sengled E1G-G8E
 
+|     |     |
+|-----|-----|
 | Model | E1G-G8E  |
 | Vendor  | Sengled  |
 | Description | Multicolor light strip (2M) |
 | Exposes | light (state, brightness, color_temp, color_temp_startup, color_xy), effect, linkquality |
-| Picture | ![Sengled E1G-G8E](../../public/images/devices/E1G-G8E.jpg) |
+| Picture | ![Sengled E1G-G8E](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/E1G-G8E.jpg) |
+
 
 ## Notes
 

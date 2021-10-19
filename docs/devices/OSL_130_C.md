@@ -1,19 +1,23 @@
 ---
 title: "Innr OSL 130 C control via MQTT"
-description: "Integrate your Innr OSL 130 C via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Innr OSL 130 C via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/OSL_130_C.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Innr OSL 130 C
 
+|     |     |
+|-----|-----|
 | Model | OSL 130 C  |
 | Vendor  | Innr  |
 | Description | Outdoor smart spot colour, 230lm/spot, RGBW |
 | Exposes | light (state, brightness, color_temp, color_temp_startup, color_xy, color_hs), effect, linkquality |
-| Picture | ![Innr OSL 130 C](../../public/images/devices/OSL-130-C.jpg) |
+| Picture | ![Innr OSL 130 C](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/OSL-130-C.jpg) |
+
 
 ## Notes
 

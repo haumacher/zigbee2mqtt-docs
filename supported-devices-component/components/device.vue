@@ -13,7 +13,7 @@
       q-tooltip(self="center start") Added at {{ new Date(device.addedAt).toLocaleString() }}
     router-link.device-img(
       :to="link"
-      :style="{ backgroundImage: 'url(' + baseUri + device.image + ')' }"
+      :style="{ backgroundImage: 'url(' + device.image + ')' }"
     )
   .desc
     .model {{ device.model }}
@@ -34,7 +34,6 @@ export default {
   emits: ['vendor-click'],
 
   setup(props) {
-    let baseUri = './';
     const link = ref(props.device.link.substr(2));
 
     const isNew = ref(false);
@@ -45,7 +44,6 @@ export default {
 
     return {
       isNew,
-      baseUri,
       link,
     }
   }

@@ -1,19 +1,23 @@
 ---
 title: "IKEA ICPSHC24-30-IL44-1 control via MQTT"
-description: "Integrate your IKEA ICPSHC24-30-IL44-1 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your IKEA ICPSHC24-30-IL44-1 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/ICPSHC24-30-IL44-1.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # IKEA ICPSHC24-30-IL44-1
 
+|     |     |
+|-----|-----|
 | Model | ICPSHC24-30-IL44-1  |
 | Vendor  | IKEA  |
 | Description | SILVERGLANS IP44 LED driver for wireless control (30 watt) |
 | Exposes | light (state, brightness), effect, linkquality |
-| Picture | ![IKEA ICPSHC24-30-IL44-1](../../public/images/devices/ICPSHC24-30-IL44-1.jpg) |
+| Picture | ![IKEA ICPSHC24-30-IL44-1](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/ICPSHC24-30-IL44-1.jpg) |
+
 
 ## Notes
 

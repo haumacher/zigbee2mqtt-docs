@@ -1,19 +1,23 @@
 ---
 title: "Develco HESZB-120 control via MQTT"
-description: "Integrate your Develco HESZB-120 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Develco HESZB-120 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/HESZB-120.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Develco HESZB-120
 
+|     |     |
+|-----|-----|
 | Model | HESZB-120  |
 | Vendor  | Develco  |
 | Description | Fire detector with siren |
 | Exposes | temperature, battery, smoke, battery_low, test, max_duration, alarm, reliability, fault, linkquality |
-| Picture | ![Develco HESZB-120](../../public/images/devices/HESZB-120.jpg) |
+| Picture | ![Develco HESZB-120](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/HESZB-120.jpg) |
+
 
 ## Notes
 

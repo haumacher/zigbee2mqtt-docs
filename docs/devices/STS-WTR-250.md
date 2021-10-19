@@ -1,19 +1,23 @@
 ---
 title: "SmartThings STS-WTR-250 control via MQTT"
-description: "Integrate your SmartThings STS-WTR-250 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your SmartThings STS-WTR-250 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/STS-WTR-250.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # SmartThings STS-WTR-250
 
+|     |     |
+|-----|-----|
 | Model | STS-WTR-250  |
 | Vendor  | SmartThings  |
 | Description | Water leak sensor (2016 model) |
 | Exposes | water_leak, battery_low, tamper, battery, temperature, linkquality |
-| Picture | ![SmartThings STS-WTR-250](../../public/images/devices/STS-WTR-250.jpg) |
+| Picture | ![SmartThings STS-WTR-250](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/STS-WTR-250.jpg) |
+
 
 ## Notes
 

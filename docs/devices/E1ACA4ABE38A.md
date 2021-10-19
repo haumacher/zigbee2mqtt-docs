@@ -1,19 +1,23 @@
 ---
 title: "Sengled E1ACA4ABE38A control via MQTT"
-description: "Integrate your Sengled E1ACA4ABE38A via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Sengled E1ACA4ABE38A via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/E1ACA4ABE38A.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Sengled E1ACA4ABE38A
 
+|     |     |
+|-----|-----|
 | Model | E1ACA4ABE38A  |
 | Vendor  | Sengled  |
 | Description | Element downlight smart LED bulb |
 | Exposes | light (state, brightness), effect, linkquality |
-| Picture | ![Sengled E1ACA4ABE38A](../../public/images/devices/E1ACA4ABE38A.jpg) |
+| Picture | ![Sengled E1ACA4ABE38A](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/E1ACA4ABE38A.jpg) |
+
 
 ## Notes
 

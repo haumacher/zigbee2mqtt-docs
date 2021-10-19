@@ -1,19 +1,23 @@
 ---
 title: "OSRAM ST8AU-CON control via MQTT"
-description: "Integrate your OSRAM ST8AU-CON via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your OSRAM ST8AU-CON via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/ST8AU-CON.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # OSRAM ST8AU-CON
 
+|     |     |
+|-----|-----|
 | Model | ST8AU-CON  |
 | Vendor  | OSRAM  |
 | Description | OSRAM SubstiTUBE T8 Advanced UO Connected |
 | Exposes | light (state, brightness), effect, linkquality |
-| Picture | ![OSRAM ST8AU-CON](../../public/images/devices/ST8AU-CON.jpg) |
+| Picture | ![OSRAM ST8AU-CON](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/ST8AU-CON.jpg) |
+
 
 ## Notes
 

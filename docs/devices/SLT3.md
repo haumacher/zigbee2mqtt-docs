@@ -1,23 +1,28 @@
 ---
 title: "Hive SLT3 control via MQTT"
-description: "Integrate your Hive SLT3 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Hive SLT3 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/SLT3.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Hive SLT3
 
+|     |     |
+|-----|-----|
 | Model | SLT3  |
 | Vendor  | Hive  |
 | Description | Heating thermostat remote control |
 | Exposes | battery, linkquality |
-| Picture | ![Hive SLT3](../../public/images/devices/SLT3.jpg) |
+| Picture | ![Hive SLT3](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/SLT3.jpg) |
+
 
 ## Notes
 
 None
+
 
 
 ## Exposes

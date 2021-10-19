@@ -1,19 +1,23 @@
 ---
 title: "DIYRuZ DIYRuZ_Flower control via MQTT"
-description: "Integrate your DIYRuZ DIYRuZ_Flower via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your DIYRuZ DIYRuZ_Flower via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/DIYRuZ_Flower.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # DIYRuZ DIYRuZ_Flower
 
+|     |     |
+|-----|-----|
 | Model | DIYRuZ_Flower  |
 | Vendor  | DIYRuZ  |
 | Description | [Flower sensor](http://modkam.ru/?p=1700) |
 | Exposes | soil_moisture, battery, illuminance, humidity, pressure, temperature, linkquality |
-| Picture | ![DIYRuZ DIYRuZ_Flower](../../public/images/devices/DIYRuZ_Flower.jpg) |
+| Picture | ![DIYRuZ DIYRuZ_Flower](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/DIYRuZ_Flower.jpg) |
+
 
 ## Notes
 

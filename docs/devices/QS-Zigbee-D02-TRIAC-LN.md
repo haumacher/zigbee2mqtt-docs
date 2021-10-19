@@ -1,19 +1,23 @@
 ---
 title: "Lonsonho QS-Zigbee-D02-TRIAC-LN control via MQTT"
-description: "Integrate your Lonsonho QS-Zigbee-D02-TRIAC-LN via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Lonsonho QS-Zigbee-D02-TRIAC-LN via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/QS-Zigbee-D02-TRIAC-LN.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Lonsonho QS-Zigbee-D02-TRIAC-LN
 
+|     |     |
+|-----|-----|
 | Model | QS-Zigbee-D02-TRIAC-LN  |
 | Vendor  | Lonsonho  |
 | Description | 1 gang smart dimmer switch module with neutral |
 | Exposes | light (state, brightness), effect, linkquality |
-| Picture | ![Lonsonho QS-Zigbee-D02-TRIAC-LN](../../public/images/devices/QS-Zigbee-D02-TRIAC-LN.jpg) |
+| Picture | ![Lonsonho QS-Zigbee-D02-TRIAC-LN](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/QS-Zigbee-D02-TRIAC-LN.jpg) |
+
 
 ## Notes
 

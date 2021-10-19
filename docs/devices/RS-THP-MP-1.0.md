@@ -1,19 +1,23 @@
 ---
 title: "Keen Home RS-THP-MP-1.0 control via MQTT"
-description: "Integrate your Keen Home RS-THP-MP-1.0 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Keen Home RS-THP-MP-1.0 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/RS-THP-MP-1.0.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Keen Home RS-THP-MP-1.0
 
+|     |     |
+|-----|-----|
 | Model | RS-THP-MP-1.0  |
 | Vendor  | Keen Home  |
 | Description | Temperature Sensor |
 | Exposes | battery, temperature, humidity, pressure, voltage, linkquality |
-| Picture | ![Keen Home RS-THP-MP-1.0](../../public/images/devices/RS-THP-MP-1.0.jpg) |
+| Picture | ![Keen Home RS-THP-MP-1.0](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/RS-THP-MP-1.0.jpg) |
+
 
 ## Notes
 

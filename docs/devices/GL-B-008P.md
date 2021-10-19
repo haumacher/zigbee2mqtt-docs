@@ -1,19 +1,23 @@
 ---
 title: "Gledopto GL-B-008P control via MQTT"
-description: "Integrate your Gledopto GL-B-008P via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Gledopto GL-B-008P via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/GL-B-008P.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Gledopto GL-B-008P
 
+|     |     |
+|-----|-----|
 | Model | GL-B-008P  |
 | Vendor  | Gledopto  |
 | Description | Zigbee 12W E26/E27 Bulb RGB+CCT (pro) |
 | Exposes | light (state, brightness, color_temp, color_temp_startup, color_xy, color_hs), effect, linkquality |
-| Picture | ![Gledopto GL-B-008P](../../public/images/devices/GL-B-008P.jpg) |
+| Picture | ![Gledopto GL-B-008P](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/GL-B-008P.jpg) |
+
 
 ## Notes
 

@@ -1,19 +1,23 @@
 ---
 title: "Hive HALIGHTDIMWWE27 control via MQTT"
-description: "Integrate your Hive HALIGHTDIMWWE27 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Hive HALIGHTDIMWWE27 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/HALIGHTDIMWWE27.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Hive HALIGHTDIMWWE27
 
+|     |     |
+|-----|-----|
 | Model | HALIGHTDIMWWE27  |
 | Vendor  | Hive  |
 | Description | Active smart bulb white LED (E27) |
 | Exposes | light (state, brightness), effect, linkquality |
-| Picture | ![Hive HALIGHTDIMWWE27](../../public/images/devices/HALIGHTDIMWWE27.jpg) |
+| Picture | ![Hive HALIGHTDIMWWE27](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/HALIGHTDIMWWE27.jpg) |
+
 
 ## Notes
 

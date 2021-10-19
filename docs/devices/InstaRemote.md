@@ -1,20 +1,24 @@
 ---
 title: "Insta InstaRemote control via MQTT"
-description: "Integrate your Insta InstaRemote via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Insta InstaRemote via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/InstaRemote.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Insta InstaRemote
 
+|     |     |
+|-----|-----|
 | Model | InstaRemote  |
 | Vendor  | Insta  |
 | Description | ZigBee Light Link wall/handheld transmitter |
 | Exposes | action, linkquality |
-| Picture | ![Insta InstaRemote](../../public/images/devices/InstaRemote.jpg) |
+| Picture | ![Insta InstaRemote](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/InstaRemote.jpg) |
 | White-label | Gira 2430-100, Gira 2435-10, Jung ZLLCD5004M, Jung ZLLLS5004M, Jung ZLLA5004M, Jung ZLLHS4 |
+
 
 ## Notes
 

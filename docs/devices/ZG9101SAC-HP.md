@@ -1,19 +1,23 @@
 ---
 title: "Sunricher ZG9101SAC-HP control via MQTT"
-description: "Integrate your Sunricher ZG9101SAC-HP via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Sunricher ZG9101SAC-HP via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/ZG9101SAC-HP.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Sunricher ZG9101SAC-HP
 
+|     |     |
+|-----|-----|
 | Model | ZG9101SAC-HP  |
 | Vendor  | Sunricher  |
 | Description | ZigBee AC phase-cut dimmer |
 | Exposes | light (state, brightness), effect, linkquality |
-| Picture | ![Sunricher ZG9101SAC-HP](../../public/images/devices/ZG9101SAC-HP.jpg) |
+| Picture | ![Sunricher ZG9101SAC-HP](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/ZG9101SAC-HP.jpg) |
+
 
 ## Notes
 

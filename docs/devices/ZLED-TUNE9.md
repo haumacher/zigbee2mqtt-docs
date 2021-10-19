@@ -1,19 +1,23 @@
 ---
 title: "Trust ZLED-TUNE9 control via MQTT"
-description: "Integrate your Trust ZLED-TUNE9 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Trust ZLED-TUNE9 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/ZLED-TUNE9.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Trust ZLED-TUNE9
 
+|     |     |
+|-----|-----|
 | Model | ZLED-TUNE9  |
 | Vendor  | Trust  |
 | Description | Smart tunable LED bulb |
 | Exposes | light (state, brightness, color_temp, color_temp_startup), effect, linkquality |
-| Picture | ![Trust ZLED-TUNE9](../../public/images/devices/ZLED-TUNE9.jpg) |
+| Picture | ![Trust ZLED-TUNE9](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/ZLED-TUNE9.jpg) |
+
 
 ## Notes
 

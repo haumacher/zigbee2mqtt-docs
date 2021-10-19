@@ -4,30 +4,34 @@ jobs:
   build_and_deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout 🏷
         uses: actions/checkout@v2
 
-      - name: Setup Node.js
+      - name: Setup Node.js ⚗
         uses: actions/setup-node@v2.4.1
         with:
           node-version: '16'
 
-      - name: Determine node version
+      - name: Determine node version №
         id: node-version
         run: |
           echo "::set-output name=version::$(node -v)"
 
-      - uses: actions/cache@v2.1.6
+      - name: Restore Cache 📦
+        uses: actions/cache@v2.1.6
         id: cache
         with:
           path: node_modules
           key: ${{ runner.os }}-node-${{ steps.node-version.outputs.version }}-${{ hashFiles('package-lock.json') }}
 
-      - name: Install dependencies
+      - name: Install dependencies 🌐
         if: steps.cache.outputs.cache-hit != 'true'
         run: npm ci
 
-      - name: Build
+      - name: Generate Device-Pages 📚
+        run: npm run docgen
+
+      - name: Build ⚙
         run: npm run build
 
       - name: Deploy 🚀

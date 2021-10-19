@@ -1,19 +1,23 @@
 ---
 title: "Sengled Z01-CIA19NAE26 control via MQTT"
-description: "Integrate your Sengled Z01-CIA19NAE26 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Sengled Z01-CIA19NAE26 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/Z01-CIA19NAE26.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Sengled Z01-CIA19NAE26
 
+|     |     |
+|-----|-----|
 | Model | Z01-CIA19NAE26  |
 | Vendor  | Sengled  |
 | Description | Element touch (A19) |
 | Exposes | light (state, brightness), effect, linkquality |
-| Picture | ![Sengled Z01-CIA19NAE26](../../public/images/devices/Z01-CIA19NAE26.jpg) |
+| Picture | ![Sengled Z01-CIA19NAE26](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/Z01-CIA19NAE26.jpg) |
+
 
 ## Notes
 

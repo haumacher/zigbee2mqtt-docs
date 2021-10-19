@@ -1,19 +1,23 @@
 ---
 title: "Swann SWO-KEF1PA control via MQTT"
-description: "Integrate your Swann SWO-KEF1PA via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Swann SWO-KEF1PA via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/SWO-KEF1PA.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Swann SWO-KEF1PA
 
+|     |     |
+|-----|-----|
 | Model | SWO-KEF1PA  |
 | Vendor  | Swann  |
 | Description | Key fob remote |
 | Exposes | action, linkquality |
-| Picture | ![Swann SWO-KEF1PA](../../public/images/devices/SWO-KEF1PA.jpg) |
+| Picture | ![Swann SWO-KEF1PA](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/SWO-KEF1PA.jpg) |
+
 
 ## Notes
 

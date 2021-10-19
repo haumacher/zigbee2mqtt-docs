@@ -1,19 +1,23 @@
 ---
 title: "Hive HALIGHTDIMWWB22 control via MQTT"
-description: "Integrate your Hive HALIGHTDIMWWB22 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Hive HALIGHTDIMWWB22 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/HALIGHTDIMWWB22.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Hive HALIGHTDIMWWB22
 
+|     |     |
+|-----|-----|
 | Model | HALIGHTDIMWWB22  |
 | Vendor  | Hive  |
 | Description | Active smart bulb white LED (B22) |
 | Exposes | light (state, brightness), effect, linkquality |
-| Picture | ![Hive HALIGHTDIMWWB22](../../public/images/devices/HALIGHTDIMWWB22.jpg) |
+| Picture | ![Hive HALIGHTDIMWWB22](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/HALIGHTDIMWWB22.jpg) |
+
 
 ## Notes
 

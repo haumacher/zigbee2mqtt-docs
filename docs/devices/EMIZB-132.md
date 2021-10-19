@@ -1,19 +1,23 @@
 ---
 title: "Develco EMIZB-132 control via MQTT"
-description: "Integrate your Develco EMIZB-132 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Develco EMIZB-132 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/EMIZB-132.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Develco EMIZB-132
 
+|     |     |
+|-----|-----|
 | Model | EMIZB-132  |
 | Vendor  | Develco  |
 | Description | Wattle AMS HAN power-meter sensor |
 | Exposes | power, energy, current, voltage, current_phase_b, voltage_phase_b, current_phase_c, voltage_phase_c, linkquality |
-| Picture | ![Develco EMIZB-132](../../public/images/devices/EMIZB-132.jpg) |
+| Picture | ![Develco EMIZB-132](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/EMIZB-132.jpg) |
+
 
 ## Notes
 
@@ -41,6 +45,9 @@ Related issues:
 - https://github.com/Koenkk/zigbee-herdsman-converters/issues/974#issuecomment-590450035
 - https://github.com/dresden-elektronik/deconz-rest-plugin/issues/2127#issuecomment-587949747
 
+
+## OTA updates
+This device supports OTA updates, for more information see [OTA updates](../information/ota_updates.md).
 
 
 ## Exposes

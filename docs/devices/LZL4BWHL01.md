@@ -1,19 +1,23 @@
 ---
 title: "Lutron LZL4BWHL01 control via MQTT"
-description: "Integrate your Lutron LZL4BWHL01 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Lutron LZL4BWHL01 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/LZL4BWHL01.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Lutron LZL4BWHL01
 
+|     |     |
+|-----|-----|
 | Model | LZL4BWHL01  |
 | Vendor  | Lutron  |
 | Description | Connected bulb remote control |
 | Exposes | action, linkquality |
-| Picture | ![Lutron LZL4BWHL01](../../public/images/devices/LZL4BWHL01.jpg) |
+| Picture | ![Lutron LZL4BWHL01](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/LZL4BWHL01.jpg) |
+
 
 ## Notes
 

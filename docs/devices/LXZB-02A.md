@@ -1,19 +1,23 @@
 ---
 title: "Nue / 3A LXZB-02A control via MQTT"
-description: "Integrate your Nue / 3A LXZB-02A via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Nue / 3A LXZB-02A via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/LXZB-02A.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Nue / 3A LXZB-02A
 
+|     |     |
+|-----|-----|
 | Model | LXZB-02A  |
 | Vendor  | Nue / 3A  |
 | Description | Smart light controller |
 | Exposes | light (state, brightness), effect, linkquality |
-| Picture | ![Nue / 3A LXZB-02A](../../public/images/devices/LXZB-02A.jpg) |
+| Picture | ![Nue / 3A LXZB-02A](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/LXZB-02A.jpg) |
+
 
 ## Notes
 

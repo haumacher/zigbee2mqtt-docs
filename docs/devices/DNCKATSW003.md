@@ -1,19 +1,23 @@
 ---
 title: "Custom devices (DiY) DNCKATSW003 control via MQTT"
-description: "Integrate your Custom devices (DiY) DNCKATSW003 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Custom devices (DiY) DNCKATSW003 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/DNCKATSW003.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Custom devices (DiY) DNCKATSW003
 
+|     |     |
+|-----|-----|
 | Model | DNCKATSW003  |
 | Vendor  | Custom devices (DiY)  |
 | Description | [DNCKAT triple key wired wall light switch](https://github.com/dzungpv/dnckatsw00x/) |
 | Exposes | switch (state), action, linkquality |
-| Picture | ![Custom devices (DiY) DNCKATSW003](../../public/images/devices/DNCKATSW003.jpg) |
+| Picture | ![Custom devices (DiY) DNCKATSW003](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/DNCKATSW003.jpg) |
+
 
 ## Notes
 

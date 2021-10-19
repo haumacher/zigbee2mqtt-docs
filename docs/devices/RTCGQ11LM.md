@@ -1,19 +1,23 @@
 ---
 title: "Xiaomi RTCGQ11LM control via MQTT"
-description: "Integrate your Xiaomi RTCGQ11LM via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Xiaomi RTCGQ11LM via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/RTCGQ11LM.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Xiaomi RTCGQ11LM
 
+|     |     |
+|-----|-----|
 | Model | RTCGQ11LM  |
 | Vendor  | Xiaomi  |
 | Description | Aqara human body movement and illuminance sensor |
 | Exposes | battery, occupancy, temperature, voltage, illuminance_lux, illuminance, linkquality |
-| Picture | ![Xiaomi RTCGQ11LM](../../public/images/devices/RTCGQ11LM.jpg) |
+| Picture | ![Xiaomi RTCGQ11LM](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/RTCGQ11LM.jpg) |
+
 
 ## Notes
 

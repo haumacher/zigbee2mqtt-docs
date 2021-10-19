@@ -1,19 +1,23 @@
 ---
 title: "Gledopto GL-S-004ZS control via MQTT"
-description: "Integrate your Gledopto GL-S-004ZS via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Gledopto GL-S-004ZS via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/GL-S-004ZS.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Gledopto GL-S-004ZS
 
+|     |     |
+|-----|-----|
 | Model | GL-S-004ZS  |
 | Vendor  | Gledopto  |
 | Description | Zigbee 4W MR16 Bulb RGB+CCT (plus) |
 | Exposes | light (state, brightness, color_temp, color_temp_startup, color_xy, color_hs), effect, linkquality |
-| Picture | ![Gledopto GL-S-004ZS](../../public/images/devices/GL-S-004ZS.jpg) |
+| Picture | ![Gledopto GL-S-004ZS](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/GL-S-004ZS.jpg) |
+
 
 ## Notes
 

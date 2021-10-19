@@ -1,19 +1,23 @@
 ---
 title: "Aurora Lighting AU-A1ZBR2GW control via MQTT"
-description: "Integrate your Aurora Lighting AU-A1ZBR2GW via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Aurora Lighting AU-A1ZBR2GW via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/AU-A1ZBR2GW.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Aurora Lighting AU-A1ZBR2GW
 
+|     |     |
+|-----|-----|
 | Model | AU-A1ZBR2GW  |
 | Vendor  | Aurora Lighting  |
 | Description | AOne two gang wireless battery rotary dimmer |
 | Exposes | battery, action, linkquality |
-| Picture | ![Aurora Lighting AU-A1ZBR2GW](../../public/images/devices/AU-A1ZBR2GW.jpg) |
+| Picture | ![Aurora Lighting AU-A1ZBR2GW](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/AU-A1ZBR2GW.jpg) |
+
 
 ## Notes
 

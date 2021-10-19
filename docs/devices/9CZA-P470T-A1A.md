@@ -1,19 +1,23 @@
 ---
 title: "ADEO 9CZA-P470T-A1A control via MQTT"
-description: "Integrate your ADEO 9CZA-P470T-A1A via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your ADEO 9CZA-P470T-A1A via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/9CZA-P470T-A1A.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # ADEO 9CZA-P470T-A1A
 
+|     |     |
+|-----|-----|
 | Model | 9CZA-P470T-A1A  |
 | Vendor  | ADEO  |
 | Description | ENKI LEXMAN E14 LED RGBW |
 | Exposes | light (state, brightness, color_temp, color_temp_startup, color_xy), effect, linkquality |
-| Picture | ![ADEO 9CZA-P470T-A1A](../../public/images/devices/9CZA-P470T-A1A.jpg) |
+| Picture | ![ADEO 9CZA-P470T-A1A](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/9CZA-P470T-A1A.jpg) |
+
 
 ## Notes
 

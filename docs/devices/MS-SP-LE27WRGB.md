@@ -1,19 +1,23 @@
 ---
 title: "Mycket MS-SP-LE27WRGB control via MQTT"
-description: "Integrate your Mycket MS-SP-LE27WRGB via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Mycket MS-SP-LE27WRGB via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/MS-SP-LE27WRGB.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Mycket MS-SP-LE27WRGB
 
+|     |     |
+|-----|-----|
 | Model | MS-SP-LE27WRGB  |
 | Vendor  | Mycket  |
 | Description | E27 RGBW bulb |
 | Exposes | light (state, brightness, color_temp, color_temp_startup, color_xy), effect, linkquality |
-| Picture | ![Mycket MS-SP-LE27WRGB](../../public/images/devices/MS-SP-LE27WRGB.jpg) |
+| Picture | ![Mycket MS-SP-LE27WRGB](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/MS-SP-LE27WRGB.jpg) |
+
 
 ## Notes
 

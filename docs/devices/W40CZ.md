@@ -1,19 +1,23 @@
 ---
 title: "ORVIBO W40CZ control via MQTT"
-description: "Integrate your ORVIBO W40CZ via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your ORVIBO W40CZ via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/W40CZ.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # ORVIBO W40CZ
 
+|     |     |
+|-----|-----|
 | Model | W40CZ  |
 | Vendor  | ORVIBO  |
 | Description | Smart curtain motor  |
 | Exposes | cover (state, position), linkquality |
-| Picture | ![ORVIBO W40CZ](../../public/images/devices/W40CZ.jpg) |
+| Picture | ![ORVIBO W40CZ](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/W40CZ.jpg) |
+
 
 ## Notes
 

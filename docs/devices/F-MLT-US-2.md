@@ -1,19 +1,23 @@
 ---
 title: "SmartThings F-MLT-US-2 control via MQTT"
-description: "Integrate your SmartThings F-MLT-US-2 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your SmartThings F-MLT-US-2 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/F-MLT-US-2.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # SmartThings F-MLT-US-2
 
+|     |     |
+|-----|-----|
 | Model | F-MLT-US-2  |
 | Vendor  | SmartThings  |
 | Description | Multipurpose sensor (2016 model) |
 | Exposes | temperature, contact, battery_low, tamper, battery, moving, x_axis, y_axis, z_axis, linkquality |
-| Picture | ![SmartThings F-MLT-US-2](../../public/images/devices/F-MLT-US-2.jpg) |
+| Picture | ![SmartThings F-MLT-US-2](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/F-MLT-US-2.jpg) |
+
 
 ## Notes
 

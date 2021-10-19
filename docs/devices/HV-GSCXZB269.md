@@ -1,19 +1,23 @@
 ---
 title: "Hive HV-GSCXZB269 control via MQTT"
-description: "Integrate your Hive HV-GSCXZB269 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Hive HV-GSCXZB269 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/HV-GSCXZB269.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Hive HV-GSCXZB269
 
+|     |     |
+|-----|-----|
 | Model | HV-GSCXZB269  |
 | Vendor  | Hive  |
 | Description | Active light cool to warm white (E26)  |
 | Exposes | light (state, brightness, color_temp, color_temp_startup), effect, linkquality |
-| Picture | ![Hive HV-GSCXZB269](../../public/images/devices/HV-GSCXZB269.jpg) |
+| Picture | ![Hive HV-GSCXZB269](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/HV-GSCXZB269.jpg) |
+
 
 ## Notes
 

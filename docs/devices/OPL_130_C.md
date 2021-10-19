@@ -1,19 +1,23 @@
 ---
 title: "Innr OPL 130 C control via MQTT"
-description: "Integrate your Innr OPL 130 C via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Innr OPL 130 C via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/OPL_130_C.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Innr OPL 130 C
 
+|     |     |
+|-----|-----|
 | Model | OPL 130 C  |
 | Vendor  | Innr  |
 | Description | Outdoor smart pedestal light colour |
 | Exposes | light (state, brightness, color_temp, color_temp_startup, color_xy, color_hs), effect, linkquality |
-| Picture | ![Innr OPL 130 C](../../public/images/devices/OPL-130-C.jpg) |
+| Picture | ![Innr OPL 130 C](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/OPL-130-C.jpg) |
+
 
 ## Notes
 

@@ -1,19 +1,23 @@
 ---
 title: "Gledopto GL-C-006P control via MQTT"
-description: "Integrate your Gledopto GL-C-006P via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Gledopto GL-C-006P via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/GL-C-006P.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Gledopto GL-C-006P
 
+|     |     |
+|-----|-----|
 | Model | GL-C-006P  |
 | Vendor  | Gledopto  |
 | Description | Zigbee LED Controller WW/CW (pro) |
 | Exposes | light (state, brightness, color_temp, color_temp_startup), effect, linkquality |
-| Picture | ![Gledopto GL-C-006P](../../public/images/devices/GL-C-006P.jpg) |
+| Picture | ![Gledopto GL-C-006P](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/GL-C-006P.jpg) |
+
 
 ## Notes
 

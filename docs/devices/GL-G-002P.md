@@ -1,19 +1,23 @@
 ---
 title: "Gledopto GL-G-002P control via MQTT"
-description: "Integrate your Gledopto GL-G-002P via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Gledopto GL-G-002P via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/GL-G-002P.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Gledopto GL-G-002P
 
+|     |     |
+|-----|-----|
 | Model | GL-G-002P  |
 | Vendor  | Gledopto  |
 | Description | Zigbee 7W garden lamp RGB+CCT (pro) |
 | Exposes | light (state, brightness, color_temp, color_temp_startup, color_xy, color_hs), effect, linkquality |
-| Picture | ![Gledopto GL-G-002P](../../public/images/devices/GL-G-002P.jpg) |
+| Picture | ![Gledopto GL-G-002P](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/GL-G-002P.jpg) |
+
 
 ## Notes
 

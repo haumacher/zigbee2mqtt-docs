@@ -1,19 +1,23 @@
 ---
 title: "Xiaomi LLKZMK11LM control via MQTT"
-description: "Integrate your Xiaomi LLKZMK11LM via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Xiaomi LLKZMK11LM via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/LLKZMK11LM.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Xiaomi LLKZMK11LM
 
+|     |     |
+|-----|-----|
 | Model | LLKZMK11LM  |
 | Vendor  | Xiaomi  |
 | Description | Aqara wireless relay controller |
 | Exposes | power, energy, temperature, voltage, switch (state), interlock, linkquality |
-| Picture | ![Xiaomi LLKZMK11LM](../../public/images/devices/LLKZMK11LM.jpg) |
+| Picture | ![Xiaomi LLKZMK11LM](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/LLKZMK11LM.jpg) |
+
 
 ## Notes
 

@@ -1,19 +1,23 @@
 ---
 title: "Livolo TI0001-cover control via MQTT"
-description: "Integrate your Livolo TI0001-cover via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Livolo TI0001-cover via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/TI0001-cover.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Livolo TI0001-cover
 
+|     |     |
+|-----|-----|
 | Model | TI0001-cover  |
 | Vendor  | Livolo  |
 | Description | Zigbee roller blind motor |
 | Exposes | cover (state, position), options, moving, linkquality |
-| Picture | ![Livolo TI0001-cover](../../public/images/devices/TI0001-cover.jpg) |
+| Picture | ![Livolo TI0001-cover](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/TI0001-cover.jpg) |
+
 
 ## Notes
 

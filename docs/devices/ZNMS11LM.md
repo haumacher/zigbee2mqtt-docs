@@ -1,19 +1,23 @@
 ---
 title: "Xiaomi ZNMS11LM control via MQTT"
-description: "Integrate your Xiaomi ZNMS11LM via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Xiaomi ZNMS11LM via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/ZNMS11LM.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Xiaomi ZNMS11LM
 
+|     |     |
+|-----|-----|
 | Model | ZNMS11LM  |
 | Vendor  | Xiaomi  |
 | Description | Xiaomi Aqara smart lock |
 | Exposes | state, reverse, action, linkquality |
-| Picture | ![Xiaomi ZNMS11LM](../../public/images/devices/ZNMS11LM.jpg) |
+| Picture | ![Xiaomi ZNMS11LM](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/ZNMS11LM.jpg) |
+
 
 ## Notes
 

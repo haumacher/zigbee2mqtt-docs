@@ -1,19 +1,23 @@
 ---
 title: "Xiaomi JWDL001A control via MQTT"
-description: "Integrate your Xiaomi JWDL001A via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Xiaomi JWDL001A via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/JWDL001A.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Xiaomi JWDL001A
 
+|     |     |
+|-----|-----|
 | Model | JWDL001A  |
 | Vendor  | Xiaomi  |
 | Description | Aqara embedded spot led light |
 | Exposes | light (state, brightness, color_temp), effect, linkquality |
-| Picture | ![Xiaomi JWDL001A](../../public/images/devices/JWDL001A.jpg) |
+| Picture | ![Xiaomi JWDL001A](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/JWDL001A.jpg) |
+
 
 ## Notes
 

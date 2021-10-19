@@ -1,19 +1,23 @@
 ---
 title: "Moes ZSS-ZK-THL control via MQTT"
-description: "Integrate your Moes ZSS-ZK-THL via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Moes ZSS-ZK-THL via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/ZSS-ZK-THL.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Moes ZSS-ZK-THL
 
+|     |     |
+|-----|-----|
 | Model | ZSS-ZK-THL  |
 | Vendor  | Moes  |
 | Description | Smart temperature and humidity meter with display |
 | Exposes | battery, illuminance, illuminance_lux, humidity, temperature, linkquality |
-| Picture | ![Moes ZSS-ZK-THL](../../public/images/devices/ZSS-ZK-THL.jpg) |
+| Picture | ![Moes ZSS-ZK-THL](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/ZSS-ZK-THL.jpg) |
+
 
 ## Notes
 

@@ -1,19 +1,23 @@
 ---
 title: "Sunricher HK-ZD-CCT-A control via MQTT"
-description: "Integrate your Sunricher HK-ZD-CCT-A via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Sunricher HK-ZD-CCT-A via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/HK-ZD-CCT-A.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Sunricher HK-ZD-CCT-A
 
+|     |     |
+|-----|-----|
 | Model | HK-ZD-CCT-A  |
 | Vendor  | Sunricher  |
 | Description | 50W Zigbee CCT LED driver (constant current) |
 | Exposes | light (state, brightness, color_temp, color_temp_startup), effect, linkquality |
-| Picture | ![Sunricher HK-ZD-CCT-A](../../public/images/devices/HK-ZD-CCT-A.jpg) |
+| Picture | ![Sunricher HK-ZD-CCT-A](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/HK-ZD-CCT-A.jpg) |
+
 
 ## Notes
 

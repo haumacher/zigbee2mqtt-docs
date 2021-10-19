@@ -1,19 +1,23 @@
 ---
 title: "Stelpro SMT402AD control via MQTT"
-description: "Integrate your Stelpro SMT402AD via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Stelpro SMT402AD via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/SMT402AD.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Stelpro SMT402AD
 
+|     |     |
+|-----|-----|
 | Model | SMT402AD  |
 | Vendor  | Stelpro  |
 | Description | Maestro, line-voltage thermostat |
 | Exposes | local_temperature, keypad_lockout, climate (occupied_heating_setpoint, local_temperature, system_mode, running_state), linkquality |
-| Picture | ![Stelpro SMT402AD](../../public/images/devices/SMT402AD.jpg) |
+| Picture | ![Stelpro SMT402AD](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/SMT402AD.jpg) |
+
 
 ## Notes
 

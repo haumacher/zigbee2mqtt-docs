@@ -1,19 +1,23 @@
 ---
 title: "Xiaomi RTCGQ01LM control via MQTT"
-description: "Integrate your Xiaomi RTCGQ01LM via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Xiaomi RTCGQ01LM via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/RTCGQ01LM.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Xiaomi RTCGQ01LM
 
+|     |     |
+|-----|-----|
 | Model | RTCGQ01LM  |
 | Vendor  | Xiaomi  |
 | Description | MiJia human body movement sensor |
 | Exposes | battery, occupancy, voltage, linkquality |
-| Picture | ![Xiaomi RTCGQ01LM](../../public/images/devices/RTCGQ01LM.jpg) |
+| Picture | ![Xiaomi RTCGQ01LM](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/RTCGQ01LM.jpg) |
+
 
 ## Notes
 

@@ -1,19 +1,23 @@
 ---
 title: "Xiaomi WSDCGQ12LM control via MQTT"
-description: "Integrate your Xiaomi WSDCGQ12LM via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Xiaomi WSDCGQ12LM via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/WSDCGQ12LM.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Xiaomi WSDCGQ12LM
 
+|     |     |
+|-----|-----|
 | Model | WSDCGQ12LM  |
 | Vendor  | Xiaomi  |
 | Description | Aqara T1 temperature, humidity and pressure sensor |
 | Exposes | battery, temperature, humidity, pressure, voltage, linkquality |
-| Picture | ![Xiaomi WSDCGQ12LM](../../public/images/devices/WSDCGQ12LM.jpg) |
+| Picture | ![Xiaomi WSDCGQ12LM](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/WSDCGQ12LM.jpg) |
+
 
 ## Notes
 

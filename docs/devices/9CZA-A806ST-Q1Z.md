@@ -1,19 +1,23 @@
 ---
 title: "ADEO 9CZA-A806ST-Q1Z control via MQTT"
-description: "Integrate your ADEO 9CZA-A806ST-Q1Z via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your ADEO 9CZA-A806ST-Q1Z via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/9CZA-A806ST-Q1Z.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # ADEO 9CZA-A806ST-Q1Z
 
+|     |     |
+|-----|-----|
 | Model | 9CZA-A806ST-Q1Z  |
 | Vendor  | ADEO  |
 | Description | ENKI Lexman E27 LED white |
 | Exposes | light (state, brightness, color_temp, color_temp_startup), effect, linkquality |
-| Picture | ![ADEO 9CZA-A806ST-Q1Z](../../public/images/devices/9CZA-A806ST-Q1Z.jpg) |
+| Picture | ![ADEO 9CZA-A806ST-Q1Z](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/9CZA-A806ST-Q1Z.jpg) |
+
 
 ## Notes
 

@@ -1,19 +1,23 @@
 ---
 title: "YSRSAI YSR-MINI-01_dimmer control via MQTT"
-description: "Integrate your YSRSAI YSR-MINI-01_dimmer via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your YSRSAI YSR-MINI-01_dimmer via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/YSR-MINI-01_dimmer.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # YSRSAI YSR-MINI-01_dimmer
 
+|     |     |
+|-----|-----|
 | Model | YSR-MINI-01_dimmer  |
 | Vendor  | YSRSAI  |
 | Description | Zigbee LED controller (Dimmer) |
 | Exposes | light (state, brightness), effect, linkquality |
-| Picture | ![YSRSAI YSR-MINI-01_dimmer](../../public/images/devices/YSR-MINI-01_dimmer.jpg) |
+| Picture | ![YSRSAI YSR-MINI-01_dimmer](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/YSR-MINI-01_dimmer.jpg) |
+
 
 ## Notes
 

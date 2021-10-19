@@ -1,19 +1,23 @@
 ---
 title: "LifeControl MCLH-02 control via MQTT"
-description: "Integrate your LifeControl MCLH-02 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your LifeControl MCLH-02 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/MCLH-02.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # LifeControl MCLH-02
 
+|     |     |
+|-----|-----|
 | Model | MCLH-02  |
 | Vendor  | LifeControl  |
 | Description | RGB LED lamp |
 | Exposes | light (state, brightness, color_temp, color_temp_startup, color_xy), effect, linkquality |
-| Picture | ![LifeControl MCLH-02](../../public/images/devices/MCLH-02.jpg) |
+| Picture | ![LifeControl MCLH-02](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/MCLH-02.jpg) |
+
 
 ## Notes
 

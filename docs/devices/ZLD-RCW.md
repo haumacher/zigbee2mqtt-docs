@@ -1,19 +1,23 @@
 ---
 title: "Moes ZLD-RCW control via MQTT"
-description: "Integrate your Moes ZLD-RCW via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Moes ZLD-RCW via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/ZLD-RCW.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Moes ZLD-RCW
 
+|     |     |
+|-----|-----|
 | Model | ZLD-RCW  |
 | Vendor  | Moes  |
 | Description | RGB+CCT Zigbee LED Controller |
 | Exposes | light (state, brightness, color_temp, color_temp_startup, color_xy), effect, do_not_disturb, color_power_on_behavior, linkquality |
-| Picture | ![Moes ZLD-RCW](../../public/images/devices/ZLD-RCW.jpg) |
+| Picture | ![Moes ZLD-RCW](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/ZLD-RCW.jpg) |
+
 
 ## Notes
 

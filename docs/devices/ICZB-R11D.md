@@ -1,19 +1,23 @@
 ---
 title: "iCasa ICZB-R11D control via MQTT"
-description: "Integrate your iCasa ICZB-R11D via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your iCasa ICZB-R11D via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/ICZB-R11D.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # iCasa ICZB-R11D
 
+|     |     |
+|-----|-----|
 | Model | ICZB-R11D  |
 | Vendor  | iCasa  |
 | Description | Zigbee AC dimmer |
 | Exposes | light (state, brightness), effect, linkquality |
-| Picture | ![iCasa ICZB-R11D](../../public/images/devices/ICZB-R11D.jpg) |
+| Picture | ![iCasa ICZB-R11D](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/ICZB-R11D.jpg) |
+
 
 ## Notes
 

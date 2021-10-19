@@ -1,19 +1,23 @@
 ---
 title: "Livolo TI0001-switch-2gang control via MQTT"
-description: "Integrate your Livolo TI0001-switch-2gang via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Livolo TI0001-switch-2gang via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/TI0001-switch-2gang.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Livolo TI0001-switch-2gang
 
+|     |     |
+|-----|-----|
 | Model | TI0001-switch-2gang  |
 | Vendor  | Livolo  |
 | Description | Zigbee Switch 2 gang |
 | Exposes | switch (state), linkquality |
-| Picture | ![Livolo TI0001-switch-2gang](../../public/images/devices/TI0001-switch-2gang.jpg) |
+| Picture | ![Livolo TI0001-switch-2gang](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/TI0001-switch-2gang.jpg) |
+
 
 ## Notes
 

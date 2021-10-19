@@ -1,19 +1,23 @@
 ---
 title: "Sylvania LTFY004 control via MQTT"
-description: "Integrate your Sylvania LTFY004 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Sylvania LTFY004 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/LTFY004.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Sylvania LTFY004
 
+|     |     |
+|-----|-----|
 | Model | LTFY004  |
 | Vendor  | Sylvania  |
 | Description | LIGHTIFY LED gardenspot mini RGB |
 | Exposes | light (state, brightness, color_xy, color_hs), effect, linkquality |
-| Picture | ![Sylvania LTFY004](../../public/images/devices/LTFY004.jpg) |
+| Picture | ![Sylvania LTFY004](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/LTFY004.jpg) |
+
 
 ## Notes
 

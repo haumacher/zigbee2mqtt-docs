@@ -1,19 +1,23 @@
 ---
 title: "Hive HV-CE14CXZB6 control via MQTT"
-description: "Integrate your Hive HV-CE14CXZB6 via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Hive HV-CE14CXZB6 via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/HV-CE14CXZB6.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Hive HV-CE14CXZB6
 
+|     |     |
+|-----|-----|
 | Model | HV-CE14CXZB6  |
 | Vendor  | Hive  |
 | Description | Active light, warm to cool white (E14) |
 | Exposes | light (state, brightness, color_temp, color_temp_startup), effect, linkquality |
-| Picture | ![Hive HV-CE14CXZB6](../../public/images/devices/HV-CE14CXZB6.jpg) |
+| Picture | ![Hive HV-CE14CXZB6](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/HV-CE14CXZB6.jpg) |
+
 
 ## Notes
 

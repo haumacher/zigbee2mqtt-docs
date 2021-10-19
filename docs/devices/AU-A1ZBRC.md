@@ -1,19 +1,23 @@
 ---
 title: "Aurora Lighting AU-A1ZBRC control via MQTT"
-description: "Integrate your Aurora Lighting AU-A1ZBRC via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Aurora Lighting AU-A1ZBRC via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/AU-A1ZBRC.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Aurora Lighting AU-A1ZBRC
 
+|     |     |
+|-----|-----|
 | Model | AU-A1ZBRC  |
 | Vendor  | Aurora Lighting  |
 | Description | AOne smart remote |
 | Exposes | battery, action, linkquality |
-| Picture | ![Aurora Lighting AU-A1ZBRC](../../public/images/devices/AU-A1ZBRC.jpg) |
+| Picture | ![Aurora Lighting AU-A1ZBRC](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/AU-A1ZBRC.jpg) |
+
 
 ## Notes
 

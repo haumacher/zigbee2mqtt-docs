@@ -1,19 +1,23 @@
 ---
 title: "LEDVANCE GPDRPLOP401100CE control via MQTT"
-description: "Integrate your LEDVANCE GPDRPLOP401100CE via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your LEDVANCE GPDRPLOP401100CE via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/GPDRPLOP401100CE.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # LEDVANCE GPDRPLOP401100CE
 
+|     |     |
+|-----|-----|
 | Model | GPDRPLOP401100CE  |
 | Vendor  | LEDVANCE  |
 | Description | Panel TW LED 625 UGR19 |
 | Exposes | light (state, brightness, color_temp, color_temp_startup, color_xy, color_hs), effect, linkquality |
-| Picture | ![LEDVANCE GPDRPLOP401100CE](../../public/images/devices/GPDRPLOP401100CE.jpg) |
+| Picture | ![LEDVANCE GPDRPLOP401100CE](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/GPDRPLOP401100CE.jpg) |
+
 
 ## Notes
 

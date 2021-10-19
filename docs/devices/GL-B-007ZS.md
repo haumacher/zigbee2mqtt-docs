@@ -1,19 +1,23 @@
 ---
 title: "Gledopto GL-B-007ZS control via MQTT"
-description: "Integrate your Gledopto GL-B-007ZS via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Gledopto GL-B-007ZS via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/GL-B-007ZS.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Gledopto GL-B-007ZS
 
+|     |     |
+|-----|-----|
 | Model | GL-B-007ZS  |
 | Vendor  | Gledopto  |
 | Description | Zigbee 6W E26/E27 Bulb RGB+CCT (plus) |
 | Exposes | light (state, brightness, color_temp, color_temp_startup, color_xy, color_hs), effect, linkquality |
-| Picture | ![Gledopto GL-B-007ZS](../../public/images/devices/GL-B-007ZS.jpg) |
+| Picture | ![Gledopto GL-B-007ZS](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/GL-B-007ZS.jpg) |
+
 
 ## Notes
 

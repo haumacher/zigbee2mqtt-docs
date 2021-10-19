@@ -1,19 +1,23 @@
 ---
 title: "Xiaomi WXKG11LM control via MQTT"
-description: "Integrate your Xiaomi WXKG11LM via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Xiaomi WXKG11LM via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/WXKG11LM.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Xiaomi WXKG11LM
 
+|     |     |
+|-----|-----|
 | Model | WXKG11LM  |
 | Vendor  | Xiaomi  |
 | Description | Aqara wireless switch |
 | Exposes | battery, voltage, action, linkquality |
-| Picture | ![Xiaomi WXKG11LM](../../public/images/devices/WXKG11LM.jpg) |
+| Picture | ![Xiaomi WXKG11LM](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/WXKG11LM.jpg) |
+
 
 ## Notes
 

@@ -1,19 +1,23 @@
 ---
 title: "Innr OFL 120 C control via MQTT"
-description: "Integrate your Innr OFL 120 C via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Innr OFL 120 C via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/OFL_120_C.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Innr OFL 120 C
 
+|     |     |
+|-----|-----|
 | Model | OFL 120 C  |
 | Vendor  | Innr  |
 | Description | Outdoor flex light colour LED strip 2m, 550lm, RGBW |
 | Exposes | light (state, brightness, color_temp, color_temp_startup, color_xy, color_hs), effect, linkquality |
-| Picture | ![Innr OFL 120 C](../../public/images/devices/OFL-120-C.jpg) |
+| Picture | ![Innr OFL 120 C](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/OFL-120-C.jpg) |
+
 
 ## Notes
 

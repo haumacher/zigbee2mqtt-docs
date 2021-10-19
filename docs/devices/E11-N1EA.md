@@ -1,19 +1,23 @@
 ---
 title: "Sengled E11-N1EA control via MQTT"
-description: "Integrate your Sengled E11-N1EA via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Sengled E11-N1EA via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/E11-N1EA.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Sengled E11-N1EA
 
+|     |     |
+|-----|-----|
 | Model | E11-N1EA  |
 | Vendor  | Sengled  |
 | Description | Element plus color (A19) |
 | Exposes | light (state, brightness, color_temp, color_temp_startup, color_xy), effect, linkquality |
-| Picture | ![Sengled E11-N1EA](../../public/images/devices/E11-N1EA.jpg) |
+| Picture | ![Sengled E11-N1EA](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/E11-N1EA.jpg) |
+
 
 ## Notes
 

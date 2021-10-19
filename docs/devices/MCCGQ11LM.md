@@ -1,19 +1,23 @@
 ---
 title: "Xiaomi MCCGQ11LM control via MQTT"
-description: "Integrate your Xiaomi MCCGQ11LM via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Xiaomi MCCGQ11LM via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/MCCGQ11LM.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Xiaomi MCCGQ11LM
 
+|     |     |
+|-----|-----|
 | Model | MCCGQ11LM  |
 | Vendor  | Xiaomi  |
 | Description | Aqara door & window contact sensor |
 | Exposes | battery, contact, temperature, voltage, linkquality |
-| Picture | ![Xiaomi MCCGQ11LM](../../public/images/devices/MCCGQ11LM.jpg) |
+| Picture | ![Xiaomi MCCGQ11LM](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/MCCGQ11LM.jpg) |
+
 
 ## Notes
 

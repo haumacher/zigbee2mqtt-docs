@@ -1,19 +1,23 @@
 ---
 title: "Gledopto GL-D-005P control via MQTT"
-description: "Integrate your Gledopto GL-D-005P via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Gledopto GL-D-005P via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/GL-D-005P.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Gledopto GL-D-005P
 
+|     |     |
+|-----|-----|
 | Model | GL-D-005P  |
 | Vendor  | Gledopto  |
 | Description | Zigbee 12W Downlight RGB+CCT (pro) |
 | Exposes | light (state, brightness, color_temp, color_temp_startup, color_xy, color_hs), effect, linkquality |
-| Picture | ![Gledopto GL-D-005P](../../public/images/devices/GL-D-005P.jpg) |
+| Picture | ![Gledopto GL-D-005P](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/GL-D-005P.jpg) |
+
 
 ## Notes
 

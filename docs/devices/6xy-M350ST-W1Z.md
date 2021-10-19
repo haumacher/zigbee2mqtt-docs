@@ -1,19 +1,23 @@
 ---
 title: "Leedarson 6xy-M350ST-W1Z control via MQTT"
-description: "Integrate your Leedarson 6xy-M350ST-W1Z via Zigbee2MQTT with whatever smart home
- infrastructure you are using without the vendors bridge or gateway."
+description: "Integrate your Leedarson 6xy-M350ST-W1Z via Zigbee2MQTT with whatever smart home infrastructure you are using without the vendors bridge or gateway."
 ---
 
-*To contribute to this page, edit the following
-[file](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/devices/6xy-M350ST-W1Z.md)*
+<!-- !!!! -->
+<!-- ATTENTION: This file is auto-generated through docgen! -->
+<!-- You can only edit the "## Notes"-Section. -->
+<!-- !!!! -->
 
 # Leedarson 6xy-M350ST-W1Z
 
+|     |     |
+|-----|-----|
 | Model | 6xy-M350ST-W1Z  |
 | Vendor  | Leedarson  |
 | Description | PAR16 tunable white |
 | Exposes | light (state, brightness, color_temp, color_temp_startup), effect, linkquality |
-| Picture | ![Leedarson 6xy-M350ST-W1Z](../../public/images/devices/6xy-M350ST-W1Z.jpg) |
+| Picture | ![Leedarson 6xy-M350ST-W1Z](https://psi-4ward.github.io/zigbee2mqtt-docs/images/devices/6xy-M350ST-W1Z.jpg) |
+
 
 ## Notes
 
