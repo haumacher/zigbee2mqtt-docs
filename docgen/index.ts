@@ -4,6 +4,7 @@ import { devices } from 'zigbee-herdsman-converters';
 import generateDevice from "./generate_device";
 import generate_supportedDevices from "./generate_supported-devices";
 import { base, domain } from "../vuepress.config";
+import { removeObsoleteDevices } from "./remove-obsolete-devices";
 
 const devicesBaseDir = path.resolve(__dirname, '..', 'docs', 'devices');
 const imageBaseDir = path.resolve(__dirname, '..', 'public', 'images', 'devices');
@@ -22,7 +23,7 @@ async function generateDevices() {
 }
 
 ( async function () {
-  // await cleanDevices();
+  await removeObsoleteDevices({ devicesBaseDir, devices });
   await Promise.all([
     generate_supportedDevices({ imageBaseDir, imageBaseUrl }),
     generateDevices(),
