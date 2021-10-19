@@ -1,8 +1,9 @@
 import { promises as fsp } from "fs";
 import { normalizeModel } from "./utils";
 import * as path from "path";
+import { devicesBaseDir } from "./constants";
 
-export async function removeObsoleteDevices({ devicesBaseDir, devices }) {
+export async function removeObsoleteDevices(devices) {
   const files = await fsp.readdir(devicesBaseDir);
   const models = devices.map(device => `${ normalizeModel(device.model) }.md`);
   const obsolete = files.filter(file => !models.includes(file));
