@@ -1,5 +1,5 @@
 ---
-prev: ../requirements/
+prev: ../what-do-i-need/
 next: ../configuration/
 ---
 
@@ -7,7 +7,7 @@ next: ../configuration/
 
 Since Node.js is fully cross-platform it is possible to run Zigbee2MQTT on Windows.
 
-Before you start make sure you have [already flashed](../adapters/flashing_the_cc2531.md) your Zigbee adapter with the appropriate firmware.
+Before you start make sure you have [already flashed](../adapters/flashing/flashing_the_cc2531.md) your Zigbee adapter with the appropriate firmware.
 
 ## 1. Determine which COM port is assigned to your device
 

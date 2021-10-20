@@ -3,11 +3,15 @@ import { getFiles } from "./navbar";
 
 export const sidebar: SidebarConfig = {
   '/guide/': [
-    '/guide/requirements/',
+    '/guide/what-do-i-need/',
     {
-      text: 'Supported Adapters',
-      link: '/guide/adapters/',
-      children: getFiles('guide/adapters')
+      text: 'Supported Hardware',
+      link: '/guide/supported-hardware.md',
+      children: [
+        { text: 'Adapters', link: '/guide/adapters/' },
+        { text: 'Devices', link: '/supported-devices/' },
+      ]
+      // children: getFiles('guide/adapters')
     },
     {
       text: 'Installation',

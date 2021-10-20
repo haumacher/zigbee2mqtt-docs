@@ -4,7 +4,7 @@ title: Home
 heroImage: /logo.png
 actions:
   - text: Get Started
-    link: /guide/requirements/
+    link: /guide/what-do-i-need/
     type: primary
   - text: Supported Devices
     link: /supported-devices/

@@ -80,7 +80,7 @@ Most of the times this is caused by zigbee-herdsman not being able to communicat
 ### Error: SRSP - SYS - ping after 6000ms
 2 common reasons of this error:
 1. The port of your serial adapter changed. Check [this](../installation/01_linux.md#1-determine-location-of-the-adapter-and-checking-user-permissions) to find out the port of your adapter.
-2. If you are using a CC2530 or CC2531; it is a common issue for this adapter to crash (due to its outdated hardware). Reflashing the firmware should fix the problem. If it happens often consider upgrading to a [more powerful adapter](../requirements/README.md#supported-zigbee-adapter).
+2. If you are using a CC2530 or CC2531; it is a common issue for this adapter to crash (due to its outdated hardware). Reflashing the firmware should fix the problem. If it happens often consider upgrading to a [more powerful adapter](../what-do-i-need/README.md#supported-zigbee-adapter).
 
 ### Verify that you put the correct port in configuration.yaml
 Execute the following command to find out the correct path:

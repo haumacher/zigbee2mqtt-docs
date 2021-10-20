@@ -1,21 +1,21 @@
 ---
 ---
 # Flashing the CC2531 USB stick
-The firmware can be flashed with multiple devices. The easiest but most expensive option is with the *CC Debugger* from Texas Instruments, which is described on this page. However, you can also use a *Raspberry Pi* or a MCU like the *Arduino Uno* or the cheap *ESP8266* with four dupont cables and optionally a downloader cable. Information about these methods can be found here: [Alternative firmware flashing methods](../adapters/alternative_flashing_methods.md).
+The firmware can be flashed with multiple devices. The easiest but most expensive option is with the *CC Debugger* from Texas Instruments, which is described on this page. However, you can also use a *Raspberry Pi* or a MCU like the *Arduino Uno* or the cheap *ESP8266* with four dupont cables and optionally a downloader cable. Information about these methods can be found here: [Alternative firmware flashing methods](./alternative_flashing_methods.md).
 
-**NOTE 1**: In case you are already running a Zigbee network: reflashing does not require repairing of all devices, see [What does and does not require repairing of all devices?](../usage/FAQ.md#what-does-and-does-not-require-repairing-of-all-devices)
+**NOTE 1**: In case you are already running a Zigbee network: reflashing does not require repairing of all devices, see [What does and does not require repairing of all devices?](../../usage/FAQ.md#what-does-and-does-not-require-repairing-of-all-devices)
 
 **NOTE 2**: In this tutorial we will flash the default firmware. For larger network (20+) or when experiencing stability problems the [source routing firmware](https://github.com/Koenkk/Z-Stack-firmware/tree/master/coordinator/Z-Stack_Home_1.2/bin/source_routing) is recommended. This firmware has a limitation of 5 direct children so make sure to have enough routers in your network.
 
-**NOTE 3**: The CC2531 USB dongle can be flashed also with the [CC2530 firmware](https://github.com/Koenkk/Z-Stack-firmware/tree/master/coordinator/Z-Stack_Home_1.2/bin/default) to be operated via the P0.2/P0.3 serial pins (which are the first one and the second one of the IO expansion port). Be careful when using the CC2531 in association with an ESP8266 (as if it were the [CC2530](https://www.zigbee2mqtt.io/information/connecting_cc2530.html#via-an-esp8266)): the onboard USB power supply may not be able to power an additional ESP8266 without overheating/failing.
+**NOTE 3**: The CC2531 USB dongle can be flashed also with the [CC2530 firmware](https://github.com/Koenkk/Z-Stack-firmware/tree/master/coordinator/Z-Stack_Home_1.2/bin/default) to be operated via the P0.2/P0.3 serial pins (which are the first one and the second one of the IO expansion port). Be careful when using the CC2531 in association with an ESP8266 (as if it were the [CC2530](./connecting_cc2530.md#via-an-esp8266)): the onboard USB power supply may not be able to power an additional ESP8266 without overheating/failing.
 
 ## Required hardware
 The following additional hardware is required in order to flash the CC2531:
 
 | Name | Price | Picture |
 | ------------- | ------------- | ------------- |
-| CC debugger | +-9$ on AliExpress | ![CC debugger](../../images/cc_debugger.jpg) |
-| CC2531 downloader cable | +-2$ on AliExpress | ![Downloader cable CC2531](../../images/downloader_cable.png) |
+| CC debugger | +-9$ on AliExpress | ![CC debugger](../../../images/cc_debugger.jpg) |
+| CC2531 downloader cable | +-2$ on AliExpress | ![Downloader cable CC2531](../../../images/downloader_cable.png) |
 
 
 ## Windows
@@ -24,10 +24,10 @@ The following additional hardware is required in order to flash the CC2531:
 2. Connect `CC debugger --> Downloader cable CC2531 --> CC2531 USB sniffer`.
 3. Connect **BOTH** the `CC2531 USB sniffer` and the `CC debugger` to your PC using USB.
 3. If the light on the CC debugger is RED press set reset button on the CC debugger. The light on the CC debugger should now turn GREEN. If not use [CC debugger user guide](http://www.ti.com/lit/ug/swru197h/swru197h.pdf) to troubleshoot your problem.
-![How to connect](../../images/connected.jpg)
+![How to connect](../../../images/connected.jpg)
 4. Download the firmware [CC2531_DEFAULT_20201127.zip](https://github.com/Koenkk/Z-Stack-firmware/raw/master/coordinator/Z-Stack_Home_1.2/bin/default/CC2531_DEFAULT_20201127.zip)
 5. Start SmartRF Flash Programmer, setup as shown below and press `Perform actions`. Make sure to select the `.hex` file, not the `.bin` file!
-![SmartRF Flash Programmer](../../images/smartrf.png)
+![SmartRF Flash Programmer](../../../images/smartrf.png)
 
 ## Linux or MacOS
 Credits to [@Frans-Willem](https://github.com/frans-Willem) for majority of instructions.
@@ -51,7 +51,7 @@ make
 3. Connect `CC debugger --> Downloader cable CC2531 --> CC2531 USB sniffer`.
 4. Connect **BOTH** the `CC2531 USB sniffer` and the `CC debugger` to your PC using USB.
 5. If the light on the CC debugger is RED, press the Reset button on the CC debugger. The light on the CC debugger should now turn GREEN. If not, try to reboot and retry or follow the [CC debugger user guide](http://www.ti.com/lit/ug/swru197h/swru197h.pdf) to troubleshoot your problem.
-![How to connect](../../images/connected.jpg)
+![How to connect](../../../images/connected.jpg)
 6. Download the firmware [CC2531_DEFAULT_20201127.zip](https://github.com/Koenkk/Z-Stack-firmware/raw/master/coordinator/Z-Stack_Home_1.2/bin/default/CC2531_DEFAULT_20201127.zip).
 7. Flash your firmware:
 ```

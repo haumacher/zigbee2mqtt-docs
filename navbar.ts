@@ -13,8 +13,12 @@ export const navbar: NavbarConfig = [
   {
     text: 'Guide',
     children: [
-      '/guide/requirements/',
+      '/guide/what-do-i-need/',
       '/guide/adapters/',
+      {
+        text: 'Supported Devices',
+        link: '/supported-devices/',
+      },
       '/guide/installation/',
       '/guide/configuration/',
       {

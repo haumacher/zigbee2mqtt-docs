@@ -1,5 +1,7 @@
 ---
+sidebarDepth: 1
 ---
+
 # Configuration
 The following configuration options are available in `data/configuration.yaml`.
 
@@ -194,10 +196,11 @@ map_options:
         inactive: '#994444'
 
 # Optional: OTA update settings
+# See https://www.zigbee2mqtt.io/guide/usage/ota_updates.html for more info
 ota:
-    # Minimum time between OTA update checks, see https://www.zigbee2mqtt.io/information/ota_updates.html for more info
+    # Minimum time between OTA update checks
     update_check_interval: 1440
-    # Disable automatic update checks, see https://www.zigbee2mqtt.io/information/ota_updates.html for more info
+    # Disable automatic update checks
     disable_automatic_update_check: false
 
 # Optional: see 'Device specific configuration' below

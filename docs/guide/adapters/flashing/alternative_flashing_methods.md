@@ -16,14 +16,14 @@ git clone https://github.com/jmichault/flash_cc2531.git
  * pin 3 (DC)	  -->	pin 36 (GPIO27, BCM16)
  * pin 4 (DD)	  -->	pin 38 (GPIO28, BCM20)
  
- ![](../../images/CC2531_wiring_raspi-header.jpg)
+ ![](../../../images/CC2531_wiring_raspi-header.jpg)
 
  Optionally, connecting Target Voltage Sense to a 3.3v source (Red wire) eliminates the need to plug the device into a usb port, so optionally connect the following too:
  * pin 2 (Target Voltage Sense) --> pin 1 or pin 17 (3.3v) on Raspi
 
 See above for the dispositions of pins on CC2531, and at [https://pinout.xyz/](https://pinout.xyz/) for pins on Raspberry.
 
-A downloader cable CC2531 ![](https://www.zigbee2mqtt.io/images/downloader_cable.png) and 4 Dupont line Female to Female are perfect for this purpose. If you don't want to buy a downloader cable, you need to bend the debug pins outwards to be able to connect your Dupont cables since the pins are too close together to connect the Dupont cables directly.
+A downloader cable CC2531 ![](../../../images/downloader_cable.png) and 4 Dupont line Female to Female are perfect for this purpose. If you don't want to buy a downloader cable, you need to bend the debug pins outwards to be able to connect your Dupont cables since the pins are too close together to connect the Dupont cables directly.
 
 Now insert the usb dongle in an USB port :
 
@@ -195,9 +195,9 @@ or
 
 I connected only 3 specified contacts and GND. During the firmware, the stick and Arduino must be connected to the USB.
 
-![](../../images/kirovilya/IMG_20180111_193941.jpg)
-![](../../images/kirovilya/IMG_20180111_193923.jpg)
-![](../../images/kirovilya/IMG_20180110_234401.jpg)
+![](../../../images/kirovilya/IMG_20180111_193941.jpg)
+![](../../../images/kirovilya/IMG_20180111_193923.jpg)
+![](../../../images/kirovilya/IMG_20180110_234401.jpg)
 
 6. After that, try to get information about the chip - if it works, then the connection is correct (example for COM9 port - Arduino port):
 
