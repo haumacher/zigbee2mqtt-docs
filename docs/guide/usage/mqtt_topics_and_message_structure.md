@@ -109,7 +109,7 @@ Example payload:
             "description":"Mi power plug ZigBee"
         },
         "power_source":"Mains (single phase)",
-        "date_code":"02-28-2017",
+        "date_code":"20170228",
         "model_id":"lumi.plug",
         "interviewing":false,
         "interview_completed":true
@@ -154,7 +154,7 @@ Example payload:
         "friendly_name":"my_sensor",
         "definition":null,
         "power_source":"Battery",
-        "date_code":"04-28-2019",
+        "date_code":"20190428",
         "model_id":null,
         "interviewing":false,
         "interview_completed":true
