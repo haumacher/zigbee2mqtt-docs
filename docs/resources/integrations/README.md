@@ -7,6 +7,5 @@
 * [MQTT Explorer](https://mqtt-explorer.com) (debug tool for custom integrations)
 * [Majordomo](https://github.com/directman66/majordomo-zigbee2mqtt/) (Russian)
 * [Mozilla IoT WebThings Gateway via Zigbee2MQTT adapter](https://github.com/kabbi/zigbee2mqtt-adapter)
-* [Zigbee2MqttAssistant](https://github.com/yllibed/Zigbee2MqttAssistant) (GUI for Zigbee2MQTT)
 * [openHAB](https://community.openhab.org/t/howto-use-zigbee2mqtt-with-openhab-removing-proprietary-bridges-gateways/48768)
 * [Homebridge plugin](https://github.com/itavero/homebridge-z2m/#readme) (Apple HomeKit)
