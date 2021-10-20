@@ -1,5 +1,7 @@
 ---
+sidebarDepth: 1
 ---
+
 # Debug
 
 In case Zigbee2MQTT isn't working as expected the following tips can help you in finding the problem.

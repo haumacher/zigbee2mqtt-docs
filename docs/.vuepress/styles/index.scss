@@ -62,5 +62,8 @@
     .active+ul {
       height: auto;
     }
+    > ul:only-of-type {
+      height: auto;
+    }
   }
 }

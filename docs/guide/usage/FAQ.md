@@ -1,5 +1,7 @@
 ---
+sidebarDepth: 1
 ---
+
 # FAQ
 
 - [Why does my device not or fail to pair?](#why-does-my-device-not-or-fail-to-pair)

@@ -38,7 +38,6 @@ export const sidebar: SidebarConfig = {
         '/guide/usage/mqtt_topics_and_message_structure.md',
         '/guide/usage/exposes.md',
         '/guide/usage/scenes.md',
-        '/guide/usage/FAQ.md',
         '/guide/usage/availability.md',
         '/guide/usage/binding.md',
         '/guide/usage/groups.md',

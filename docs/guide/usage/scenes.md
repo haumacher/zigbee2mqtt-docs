@@ -1,5 +1,7 @@
 ---
+sidebarDepth: 1
 ---
+
 # Scenes
 Scenes allow to quickly set certain states for a device or group.
 Most of the time this is used for bulbs or a group of bulbs as it allows to set a certain color and brightness with a single command.
