@@ -2,7 +2,7 @@
 ---
 # MQTT topics and message structure
 
-This page describes which MQTT topics are used by Zigbee2MQTT. Note that the base topic (by default `zigbee2mqtt`) is configurable in the [Zigbee2MQTT `configuration.yaml`](../information/configuration.md). In Zigbee2MQTT 1.17.0 a new API was introduced, the documentation of the legacy api can be found [here](https://github.com/Koenkk/zigbee2mqtt.io/blob/ead922ee141546ccce079430a7acce67c982c99b/docs/information/mqtt_topics_and_message_structure.md).
+This page describes which MQTT topics are used by Zigbee2MQTT. Note that the base topic (by default `zigbee2mqtt`) is configurable in the [Zigbee2MQTT `configuration.yaml`](../../guide/configuration/). In Zigbee2MQTT 1.17.0 a new API was introduced, the documentation of the legacy api can be found [here](https://github.com/Koenkk/zigbee2mqtt.io/blob/ead922ee141546ccce079430a7acce67c982c99b/docs/information/mqtt_topics_and_message_structure.md).
 
 ## zigbee2mqtt/FRIENDLY_NAME
 Where `FRIENDLY_NAME` is e.g. `0x00158d0001b79111`. Message published to this topic are **always** in a JSON format. Each device produces a different JSON message. To see what your device publishes check the "Exposes" section on the device page which can be accessed via ["Supported devices"](./supported_devices.md). Some examples:
@@ -175,7 +175,7 @@ Example payload:
 ```
 
 ### Exposes
-A device definition will always have an `exposes` property. The format of `exposes` is documented in [Exposes](./exposes).
+A device definition will always have an `exposes` property. The format of `exposes` is documented in [Exposes](./exposes.md).
 
 ## zigbee2mqtt/bridge/groups
 Contains the groups.
@@ -207,7 +207,7 @@ Events will be published to this topic. Possible types are `device_joined`, `dev
 - `{"type":"device_leave","data":{"ieee_address":"0x90fd9ffffe6494fc","friendly_name":"my_bulb"}}`
 
 ## zigbee2mqtt/bridge/extensions
-See [User extensions](./user_extensions.md).
+See [User extensions](../development/user_extensions.md).
 
 ## zigbee2mqtt/bridge/request/+
 This can be used to e.g. configure certain settings like allowing new devices to join. Zigbee2MQTT will always respond with the same topic on `zigbee2mqtt/bridge/response/+`. The response payload will at least contain a `status` and `data` property, `status` is either `ok` or `error`. If `status` is `error` it will also contain an `error` property containing a description of the error.
@@ -258,7 +258,7 @@ Links are labelled with link quality (0..255) and active routes (listed by short
 
 #### zigbee2mqtt/bridge/request/extension/save
 
-See [User extensions](./user_extensions.md).
+See [User extensions](../development/user_extensions.md).
 
 ### Device
 
@@ -379,21 +379,21 @@ Allows to set any option. The JSON schema of this can be found [here](https://gi
 
 **Deprecated:** use `zigbee2mqtt/bridge/request/options` with payload `{"options": {"advanced": {"last_seen": VALUE}}}` instead.
 
-Sets `advanced` -> `last_seen` (persistent). Payload format is `{"value": VALUE}` or `VALUE`, example: `{"value":"disable"}`, response: `{"data":{"value": "disable"},"status":"ok"}`. See [Configuration](../information/configuration.md) for possible values.
+Sets `advanced` -> `last_seen` (persistent). Payload format is `{"value": VALUE}` or `VALUE`, example: `{"value":"disable"}`, response: `{"data":{"value": "disable"},"status":"ok"}`. See [Configuration](../../guide/configuration/) for possible values.
 
 
 #### zigbee2mqtt/bridge/request/config/elapsed
 
 **Deprecated:** use `zigbee2mqtt/bridge/request/options` with payload `{"options": {"advanced": {"elapsed": VALUE}}}` instead.
 
-Sets `advanced` -> `elapsed` (persistent). Payload format is `{"value": VALUE}` or `VALUE`, example: `{"value":true}`, response: `{"data":{"value": true},"status":"ok"}`. See [Configuration](../information/configuration.md) for possible values.
+Sets `advanced` -> `elapsed` (persistent). Payload format is `{"value": VALUE}` or `VALUE`, example: `{"value":true}`, response: `{"data":{"value": true},"status":"ok"}`. See [Configuration](../../guide/configuration/) for possible values.
 
 
 #### zigbee2mqtt/bridge/request/config/log_level
 
 **Deprecated:** use `zigbee2mqtt/bridge/request/options` with payload `{"options": {"advanced": {"log_level": VALUE}}}` instead.
 
-Sets `advanced` -> `log_level` (persistent). Payload format is `{"value": VALUE}` or `VALUE`, example: `{"value":"debug"}`, response: `{"data":{"value": "debug"},"status":"ok"}`. See [Configuration](../information/configuration.md) for possible values.
+Sets `advanced` -> `log_level` (persistent). Payload format is `{"value": VALUE}` or `VALUE`, example: `{"value":"debug"}`, response: `{"data":{"value": "debug"},"status":"ok"}`. See [Configuration](../../guide/configuration/) for possible values.
 
 
 #### zigbee2mqtt/bridge/request/config/homeassistant

@@ -18,7 +18,7 @@ The first step is to pair the device with Zigbee2MQTT. It should be possible to 
 Once you successfully paired the device you will see something like:
 ```
 Zigbee2MQTT:info  2019-11-09T12:19:56: Successfully interviewed '0x00158d0001dc126a', device has successfully been paired
-Zigbee2MQTT:warn  2019-11-09T12:19:56: Device '0x00158d0001dc126a' with Zigbee model 'lumi.sens' and manufacturer name 'some_name' is NOT supported, please follow https://www.zigbee2mqtt.io/how_tos/how_to_support_new_devices.html
+Zigbee2MQTT:warn  2019-11-09T12:19:56: Device '0x00158d0001dc126a' with Zigbee model 'lumi.sens' and manufacturer name 'some_name' is NOT supported, please follow https://www.zigbee2mqtt.io/how-tos/support_new_devices.html
 ```
 
 *NOTE: Make sure that `permit_join: true` is set in `configuration.yaml` otherwise new devices cannot join the network.*
@@ -48,7 +48,7 @@ const definition = {
 module.exports = definition;
 ```
 
-If your device is advertised as "Tuya compatible" and/or requires Tuya gateway/app to operate look [here](how_to_support_new_tuya_devices.md) for additional info
+If your device is advertised as "Tuya compatible" and/or requires Tuya gateway/app to operate look [h-re](support_new_tuya_devices.md) for additional info
 
 Now set the Zigbee2MQTT `log_level` to `debug` and enable the external converter by adding the following to your Zigbee2MQTT `configuration.yaml`.
 
@@ -66,7 +66,7 @@ Zigbee2MQTT:debug  2019-11-09T12:24:22: No converter available for 'WSDCGQ01LM' 
 
 In case your device is not reporting anything, it could be that this device requires additional configuration. This can be done by adding a `configure:` section. It may help to look at similar [devices](https://github.com/Koenkk/zigbee-herdsman-converters/blob/master/devices).
 
-If your device reports anything with 'manuSpecificTuya' then it's a "Tuya compatible" device and additional instructions for adding those are [here](how_to_support_new_tuya_devices.md).
+If your device reports anything with 'manuSpecificTuya' then it's a "Tuya compatible" device and additional instructions for adding those are [h-re](support_new_tuya_devices.md).
 
 Some basic external converter examples:
 - [Bulb (light)](https://github.com/Koenkk/zigbee2mqtt.io/blob/master/docs/externalConvertersExample/light.js)

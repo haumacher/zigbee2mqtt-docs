@@ -18,7 +18,6 @@ async function checkFile(file: string, availableFiles: string[]) {
     .map(x => x[1]) // get the matched part
     .filter(x => !x.match(/^https?:/)) // filter external links
     .filter(x => !x.endsWith('.md')) // ignore links to .md files
-    .map(x => x.endsWith('/') ? `${ x }index.html` : x) // add index.html for links pointing to a directory
     .map(x => {
       if(!x.startsWith('/')) { // resolve relative links
         return path.join(base, path.dirname(file).substr(distDir.length), x);
@@ -26,6 +25,7 @@ async function checkFile(file: string, availableFiles: string[]) {
         return x;
       }
     })
+    .map(x => x.endsWith('/') ? `${ x }index.html` : x) // add index.html for links pointing to a directory
     .map(x => x.substr(base.length));
 
   const broken = linkToFiles

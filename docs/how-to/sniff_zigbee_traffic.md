@@ -82,7 +82,7 @@ If you happen to have a spare HUSBZB-1 stick, you can also use this to sniff tra
   * Ubuntu machine (tested with 18.10)
   * Windows machine (tested with Windows 10)
 * HUSBZB-1 stick
-* Wireshark (for instructions on how to install, see the [other docs](./how_to_sniff_zigbee_traffic.md)
+* Wireshark (for instructions on how to install, see the [other docs](./sniff_zigbee_traffic.md)
 * Java
 
 ### 1. Install drivers

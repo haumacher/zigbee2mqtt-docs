@@ -28,7 +28,7 @@ Press and hold the button on the backside of the device until the blue light sta
 ### Binding
 By default the switch is bound to the coordinator but this device can also be used to directly control other lights and switches in the network.
 
-First unbind it from the coordinator, then you can bind it to any other device or group. (see https://www.zigbee2mqtt.io/information/binding.html )
+First unbind it from the coordinator, then you can bind it to any other device or group. (see https://www.zigbee2mqtt.../../guide/usage/binding.md )
 
 Now change the operation mode of the device, by default it is in `event` mode, but when binding we need to change it to `command` mode.
 To do this send to `zigbee2mqtt/FRIENDLY_NAME/set` payload `{"operation_mode": "command"}`, right before doing this make sure to wakeup the device.

@@ -52,7 +52,7 @@ without having to restart Home Assistant. It also makes it possible to show whic
 ![Device registry](../../images/home_assistant_device_registry.png)
 
 ## Customizing discovery
-The device specific configuration allows you to modify the discovery payload. Here you can also prevent a device from being discovered. See [Device specific configuration](../information/configuration.md) for the available options.
+The device specific configuration allows you to modify the discovery payload. Here you can also prevent a device from being discovered. See [Device specific configuration](../../guide/configuration/) for the available options.
 
 ## I'm confused about the different device IDs, names and friendly names
 - Home Assistant `device_id`: determined on first discovery of the device, can only be changed
@@ -90,7 +90,7 @@ automation:
 ```
 {% endraw %}
 
-If you only plan to use this and want to disable the *Via Home Assistant entity* integration below, set `homeassistant_legacy_triggers: false` (see [Configuration](../information/configuration.md) for more info).
+If you only plan to use this and want to disable the *Via Home Assistant entity* integration below, set `homeassistant_legacy_triggers: false` (see [Configuration](../../guide/configuration/) for more info).
 
 ### Via Home Assistant entity
 
