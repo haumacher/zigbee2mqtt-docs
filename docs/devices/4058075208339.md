@@ -84,7 +84,7 @@ rendition to other lights. Provide a minimum of 2 data sets in the correction ma
 
 
 ## OTA updates
-This device supports OTA updates, for more information see [OTA updates](../information/ota_updates.md).
+This device supports OTA updates, for more information see [OTA updates](../guide/usage/ota_updates.md).
 
 
 ## Exposes
