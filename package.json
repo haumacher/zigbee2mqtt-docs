@@ -18,8 +18,10 @@
     "quasar": "^2.1.5"
   },
   "devDependencies": {
+    "@types/glob": "^7.2.0",
     "@vuepress/plugin-register-components": "^2.0.0-beta.26",
     "cross-env": "^7.0.3",
+    "glob": "^7.2.0",
     "pug": "^3.0.2",
     "pug-plain-loader": "^1.1.0",
     "throat": "^6.0.1",

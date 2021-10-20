@@ -12,4 +12,6 @@ export async function removeObsoleteDevices(devices) {
     await fsp.unlink(path.resolve(devicesBaseDir, file));
     console.log('Removed obsolete file', file);
   }));
+
+  // TODO reject
 }
