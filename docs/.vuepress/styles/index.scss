@@ -1,3 +1,7 @@
+:root {
+  --content-width: 940px;
+}
+
 .no-sidebar .theme-default-content:not(.custom) {
   max-width: 1065px;
   padding-left: 0;
@@ -6,6 +10,10 @@
 
 .page-meta .meta-item .meta-item-label {
   color: var(--c-text-accent);
+}
+
+code, kbd, pre, samp {
+  font-size: 14px;
 }
 
 .page {

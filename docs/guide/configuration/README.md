@@ -283,13 +283,13 @@ The `configuration.yaml` allows to set device specific configuration. This can a
 * `homeassistant`: Allows to override values of the Home Assistant discovery payload. See example below.
 * `debounce`: Debounces messages of this device. When setting e.g. `debounce: 1` and a message from a device is received, Zigbee2MQTT will not immediately publish this message but combine it with other messages received in that same second of that device. This is handy for e.g. the `WSDCGQ11LM` which publishes humidity, temperature and pressure at the same time but as 3 different messages.
 * `debounce_ignore` Protects unique payload values of specified payload properties from overriding within debounce time. When setting e.g. `debounce: 1` and `debounce_ignore: - action` every payload with unique `action` value will be published. This is handy for e.g. the `E1744` which publishes multiple messages in short time period after one turn and `debounce` option without `debounce_ignore` publishes only last payload with action `rotate_stop`. On the other hand `debounce: 1` with `debounce_ignore: - action` will publish all unique action messages, at least two (e.g. `action: rotate_left` and `action: rotate_stop`)
-* `retrieve_state`: (DEPRECATED) Retrieves the state after setting it. Should only be enabled when the [reporting feature](../information/report.md) does not work for this device.
+* `retrieve_state`: (DEPRECATED) Retrieves the state after setting it. Should only be enabled when the reporting feature does not work for this device.
 * `filtered_attributes`: Allows to prevent certain attributes from being published. When a device would e.g. publish `{"temperature": 10, "battery": 20}` and you set `filtered_attributes: ["battery"]` it will publish `{"temperature": 10}`.
 * `optimistic`: Publish optimistic state after set, e.g. when a brightness change command succeeds Zigbee2MQTT assumes the brightness of the device changed and will publish this (default `true`).
 * `filtered_optimistic`: Same as the `filtered_attributes` option but only applies to the optimistic published attributes. Has no effect when `optimistic: false` is set. Example: `filtered_optimistic: ["color_mode", "color"]`.
 
 ### Device type specific
-Some devices support device type specific configuration, e.g. [RTCGQ11LM](../devices/RTCGQ11LM.md). To see if your device has device type specific configuration, visit the device page by going to [Supported devices](../information/supported_devices.md) and clicking on the model number.
+Some devices support device type specific configuration, e.g. [RTCGQ11LM](../../devices/RTCGQ11LM.md). To see if your device has device type specific configuration, visit the device page by going to [Supported devices](../../supported-devices/) and clicking on the model number.
 
 ### External converters configuration
 You can define external converters to e.g. add support for a DiY device. The extension can be a file with `.js` extension in the `data` directory or a NPM package. Ensure that default export from your external converter exports an array or device object (refer to the definition in the `devices` folder of zigbee-herdsman-converters). Some examples can be found [here](https://github.com/Koenkk/zigbee2mqtt.io/tree/master/docs/externalConvertersExample). For this example put the files in the `data` folder and add the following to `configuration.yaml`:
@@ -300,7 +300,7 @@ external_converters:
   - one-more-converter.js
 ```
 
-See also [How to support new devices](../how_tos/how_to_support_new_devices.md).
+See also [How to support new devices](../../how-to/support_new_devices.md).
 
 #### Changing device type specific defaults
 The default values used for the device specific configuration can be overriden via e.g.:

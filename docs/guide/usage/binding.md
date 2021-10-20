@@ -34,7 +34,7 @@ Binding a remote to a group allows a remote to directly control a group of devic
 When we for example have an IKEA E1743 remote called `my_remote` and two bulbs called `bulb_1` and `bulb_2`, we can control the 2 bulbs with the remote by putting them in the same group and binding the remote to it.
 
 To do this execute the following steps:
-1. Create a new group in `configuration.yaml` and give it a `friendly_name` (see [Groups](./groups)). In this example we will set the `friendly_name` to `my_group`.
+1. Create a new group in `configuration.yaml` and give it a `friendly_name` (see [Groups](./groups.md)). In this example we will set the `friendly_name` to `my_group`.
 2. Add the 2 bulbs to the group by sending the following two MQTT messages.
     - `zigbee2mqtt/bridge/request/group/members/add` with payload `{"group":"my_group","device":"bulb_1"}`
     - `zigbee2mqtt/bridge/request/group/members/add` with payload `{"group":"my_group","device":"bulb_2"}`

@@ -6,7 +6,7 @@ next: ../configuration/
 # Linux
 These instructions explain how to run Zigbee2MQTT on bare-metal Linux.
 
-You can also run Zigbee2MQTT in a [Docker container](../information/docker.md), as the [Home Assistant Zigbee2MQTT add-on](https://github.com/zigbee2mqtt/hassio-zigbee2mqtt), in a [Python Virtual Enviroment](../information/virtual_environment.md) or even on [Windows](../information/windows.md).
+You can also run Zigbee2MQTT in a [Docker container](./02_docker.md), as the [Home Assistant Zigbee2MQTT add-on](https://github.com/zigbee2mqtt/hassio-zigbee2mqtt), in a [Python Virtual Enviroment](./05_python_virtual_environment.md) or even on [Windows](./04_windows.md).
 
 For the sake of simplicity this guide assumes running on a Raspberry Pi 3 with Raspbian Stretch Lite, but will work on any Linux machine.
 

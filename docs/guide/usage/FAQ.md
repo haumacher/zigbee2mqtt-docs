@@ -18,7 +18,7 @@
 This problem can be divided in 2 categories; no logging is shown at all OR interview fails.
 
 ### No logging is shown at all
-- Make sure joining is enabled by setting `permit_join: true` in the [configuration](https://www.zigbee2mqtt.io/information/configuration.html).
+- Make sure joining is enabled by setting `permit_join: true` in the [configuration](../configuration/).
 - There can be too much interference, try connecting the coordinator USB through an USB extension cable. This problem occurs a lot when used in combination with a Raspberry Pi 4.
 - If you are using a Raspberry Pi, try disconnecting any other USB devices. If after that pairing works, try connecting the USB devices via a powered USB hub.
 - Make sure that any other Zigbee networks/hubs are powered down. When you e.g. want to pair an IKEA bulb which was first paired to the IKEA gateway make sure to power down the IKEA gateway. If that doesn't help also try powering down all devices that are connected to the IKEA hub.
@@ -35,7 +35,7 @@ This problem can be divided in 2 categories; no logging is shown at all OR inter
 - There can be too much interference, try connecting the coordinator USB through an USB extension cable. This problem occurs a lot when used in combination with a Raspberry Pi 4.
 - If it’s a battery powered device, try replacing the battery. Try to keep the device awake by pressing the button of the device (if any) every 3 seconds.
 - Try repairing the device again for 2 or 3 times.
-- This might be a Zigbee2MQTT bug, [Create a new issue](https://github.com/Koenkk/zigbee2mqtt/issues/new) with the zigbee-herdsman debug logging attached to it. [How to enable zigbee-herdsman debug logging](https://www.zigbee2mqtt.io/information/debug.html#zigbee-herdsman-debug-logging).
+- This might be a Zigbee2MQTT bug, [Create a new issue](https://github.com/Koenkk/zigbee2mqtt/issues/new) with the zigbee-herdsman debug logging attached to it. [How to enable zigbee-herdsman debug logging](./debug.md#zigbee-herdsman-debug-logging).
 - If device joins with `0x000000000000000` as `ieeeAddress` (you will see: `Starting interview of '0x0000000000000000'` in the Zigbee2MQTT log) your CC253X might be broken. [See issue #2761](https://github.com/Koenkk/zigbee2mqtt/issues/2761).
 - In case the device is a bulb, try resetting it through [Touchlink](./touchlink.md)
 - Try pairing close to a bulb (light) router instead of the coordinator.
@@ -79,8 +79,8 @@ Most of the times this is caused by zigbee-herdsman not being able to communicat
 
 ### Error: SRSP - SYS - ping after 6000ms
 2 common reasons of this error:
-1. The port of your serial adapter changed. Check [this](../getting_started/running_zigbee2mqtt.md#1-determine-location-of-the-adapter-and-checking-user-permissions) to find out the port of your adapter.
-2. If you are using a CC2530 or CC2531; it is a common issue for this adapter to crash (due to its outdated hardware). Reflashing the firmware should fix the problem. If it happens often consider upgrading to a [more powerful adapter](../getting_started/what_do_i_need.md#supported-zigbee-adapter).
+1. The port of your serial adapter changed. Check [this](../installation/01_linux.md#1-determine-location-of-the-adapter-and-checking-user-permissions) to find out the port of your adapter.
+2. If you are using a CC2530 or CC2531; it is a common issue for this adapter to crash (due to its outdated hardware). Reflashing the firmware should fix the problem. If it happens often consider upgrading to a [more powerful adapter](../requirements/README.md#supported-zigbee-adapter).
 
 ### Verify that you put the correct port in configuration.yaml
 Execute the following command to find out the correct path:
@@ -203,7 +203,7 @@ The correct revision is: **E** like shown below.
 All earlier version are not supported (these are development boards). Return this board to the seller immediately.
 
 ## I read that Zigbee2MQTT has a limit of 20 devices (when using a CC2531), is this true?
-Definitely not! Example given: the default Zigbee2MQTT CC2531 firmware indeed supports 20 devices connected **directly** to the coordinator. However, by having routers in your network the network size can be extended. Probably all AC powered devices e.g. bulbs serve as a router, you can even use another [CC2530/CC2531 as a router](../how_tos/how_to_create_a_cc2530_router.md) (which has a limit of 21 devices).
+Definitely not! Example given: the default Zigbee2MQTT CC2531 firmware indeed supports 20 devices connected **directly** to the coordinator. However, by having routers in your network the network size can be extended. Probably all AC powered devices e.g. bulbs serve as a router, you can even use another [CC2530/CC2531 as a router](../../how-to/create_a_cc2530_router.md) (which has a limit of 21 devices).
 
 ### Example
 When using the default Zigbee2MQTT CC2531 coordinator firmware + 2 CC2531 routers your device limit will be:
@@ -226,8 +226,8 @@ The device with id ending with *if00* is for device data. Use this port in your 
 
 ## Common error codes
 A list of common error codes and what to do in case of them:
-- `MAC_CHANNEL_ACCESS_FAILURE`: this happens when the wireless spectrum is too occupied. Mostly happens when a microwave is on or when there are WiFi networks on the same channel. See [Reduce Wifi interference by changing the Zigbee channel](../how_tos/how_to_improve_network_range_and_stability.md#reduce-wifi-interference-by-changing-the-zigbee-channel) how to fix this.
+- `MAC_CHANNEL_ACCESS_FAILURE`: this happens when the wireless spectrum is too occupied. Mostly happens when a microwave is on or when there are WiFi networks on the same channel. See [Reduce Wifi interference by changing the Zigbee channel](../../how-to/improve_network_range_and_stability.md#reduce-wifi-interference-by-changing-the-zigbee-channel) how to fix this.
 - `NWK_TABLE_FULL`: [reported](https://github.com/Koenkk/zigbee2mqtt/issues/4964#issuecomment-757022560) to have same root cause as the above `MAC_CHANNEL_ACCESS_FAILURE`
 
 ## How do I run multiple instances of Zigbee2MQTT?
-In case you setup multiple instances of Zigbee2MQTT it's important to use a different `base_topic` and `channel`. This can be configured in the [`configuration.yaml`](./configuration.md).
+In case you setup multiple instances of Zigbee2MQTT it's important to use a different `base_topic` and `channel`. This can be configured in the [`configuration.yaml`](../configuration/README.md).

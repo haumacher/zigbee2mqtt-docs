@@ -23,13 +23,13 @@ description: "Integrate your Livolo TI0001-switch via Zigbee2MQTT with whatever 
 
 
 After pairing device will be shown as "TI0001" device. Need to manually trigger a re-configure of the device either using web-frontend
-of Zigbee2MQTT or using [MQTT message](../guid/usage/mqtt_topics_and_message_structure.html#zigbee2mqttbridgerequestdeviceconfigure) right after pairing.
+of Zigbee2MQTT or using [MQTT message](../guide/usage/mqtt_topics_and_message_structure.html#zigbee2mqttbridgerequestdeviceconfigure) right after pairing.
 In case of problems it's recommended to remove device and than retry pairing and re-configuring device.
 
 ### Important
 These devices can only be used on channel 26.
 These devices are locked to the manufacturer's network key (ext_pan_id).
-Your configuration file [data/configuration.yaml](../guid/usage/configuration) must contain the following:
+Your configuration file [data/configuration.yaml](../../guide/configuration/) must contain the following:
 
 ```yaml
 advanced:

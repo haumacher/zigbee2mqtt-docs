@@ -6,9 +6,9 @@ In order to run Zigbee2MQTT we need the following hardware:
 | Name | Price | Picture |
 | ------------- | ------------- | ------------- |
 | A supported [Zigbee adapter](../adapters/) | 5$ - 40$ | ![ZZH](../../images/zzh.jpg) |
-| One or more [supported Zigbee device(s)](../../supported_devices/) | - | ![Zigbee devices](../../images/xiaomi_sensors.jpg) |
+| One or more [supported Zigbee device(s)](../../supported-devices/) | - | ![Zigbee devices](../../images/xiaomi_sensors.jpg) |
 | A computer (e.g. a Raspberry Pi) to run the Zigbee2MQTT software | - | ![Raspberry Pi](../../images/pi.jpg) |
-| **Highly recommended**: Male to female USB extension cable ([why?](../how_tos/how_to_improve_network_range_and_stability.md)) | +-2$ | ![USB extension cable](../../images/usb_extension_cable.jpg) |
+| **Highly recommended**: Male to female USB extension cable ([why?](../../how-to/improve_network_range_and_stability.md)) | +-2$ | ![USB extension cable](../../images/usb_extension_cable.jpg) |
 
 ## Supported Zigbee adapter
 Zigbee2MQTT supports a variety of Zigbee adapters, the full list can be found [here](../adapters/). What adapter to chose depends on your requirements in terms of price, size, connection (USB vs GPIO) and network size. Recommended adapters are the ones with a CC2652R, CC2652P, CC2652RB or CC1352P chip (e.g. "zig-a-zig-ah! (zzh!)" adapter by Electrolama).

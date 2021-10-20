@@ -87,7 +87,7 @@ The following tags are available:
 - Specific release version, e.g: `1.7.0`
 
 ## Support new devices
-See [How to support new devices](../how_tos/how_to_support_new_devices.md)
+See [How to support new devices](../../how-to/support_new_devices.md)
 
 ## Docker Stack device mapping
 *This is only relevant when using Docker Stack*

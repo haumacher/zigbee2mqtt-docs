@@ -5,7 +5,7 @@ next: ../configuration/
 
 # Docker-Compose
 
-See the [Docker](./docker.md) instructions for supported architectures. 
+See the [Docker](./02_docker.md) instructions for supported architectures. 
 
 ```yaml
 version: '3'
